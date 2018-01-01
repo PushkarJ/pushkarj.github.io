@@ -25,7 +25,7 @@ In my spare time, you will find me:
 ## [](#header-2) Online Presence
 
 ### [](#header-3) Blog
-[Medium](https://medium.com/@pushkarjoglekar)
+* [Medium](https://medium.com/@pushkarjoglekar)
 
 ### [](#header-3)Professional 
 * [LinkedIn](https://www.linkedin.com/in/pushkardj/)
