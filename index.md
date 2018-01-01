@@ -13,15 +13,15 @@ Hi there, this is Pushkar D Joglekar.  I am currently working on the cross roads
 
 In my spare time, I explore the beautiful Bay Area on his bike, capturing the scenes through his camera, sipping some hot chocolate while reading a book in a quaint coffee house.
 
-# [](#header-1)Social Network
+# [](#header-1)Social Network Presence
 
-## [](#header-2)Professional Network
+## [](#header-2)Professional 
 
 * [LinkedIn](https://www.linkedin.com/in/pushkardj/)
 
 * [Github](https://github.com/PushkarJ)
 
-## [](#header-2)Personal Network
+## [](#header-2)Personal 
 
 * [Twitter](https://twitter.com/PuDiJoglekar)
 
