@@ -5,7 +5,7 @@ title: About
 
 # [](#header-1)About
 
-Wow you found me! 
+Wow, out of more than [1 billion websites](http://www.internetlivestats.com/watch/websites/), you found me! Welcome :)
 
 I am currently working on the cross roads of:
 - Information Security
@@ -18,10 +18,9 @@ Recently I have successfully led initiatives on:
 - Data Protection
 
 In my spare time:
-- Explore the beautiful Bay Area biking trails, 
-- Capturing the beautiful sunsets through my camera
-- Sipping some hot chocolate and
-- Reading a book in a quaint coffee house
+- Explore beautiful Bay Area biking trails, 
+- Capture beautiful sunsets through my camera
+- Sipping hot chocolate and read a book
 
 ## [](#header-2)Social Network Presence
 
