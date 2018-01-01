@@ -28,14 +28,11 @@ In my spare time:
 ## [](#header-2)Professional 
 
 * [LinkedIn](https://www.linkedin.com/in/pushkardj/)
-
 * [Github](https://github.com/PushkarJ)
 
 ## [](#header-2)Personal 
 
 * [Twitter](https://twitter.com/PuDiJoglekar)
-
 * [GoodReads](https://www.goodreads.com/user/show/62575989-pushkar-joglekar)
-
 * [Instagram](https://www.instagram.com/pdjclicks/)
 
