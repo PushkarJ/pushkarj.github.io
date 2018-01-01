@@ -13,12 +13,12 @@ I am currently working on the cross roads of:
 - Distributed Systems
 
 Recently I have successfully led initiatives on:
-- Docker security
+- Container Security
 - Secrets Management 
 - Data Protection
 
 In my spare time:
-- Explore beautiful Bay Area biking trails, 
+- Explore beautiful Bay Area biking trails 
 - Capture beautiful sunsets through my camera
 - Sipping hot chocolate and read a book
 
