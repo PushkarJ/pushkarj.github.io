@@ -22,17 +22,12 @@ In my spare time, you will find me:
 - Capturing beautiful sunsets through my camera
 - Sipping hot chocolate and reading a book
 
-## [](#header-2) Online Presence
-
-### [](#header-3) Blog
+## [](#header-3) Blog
 * [Medium](https://medium.com/@pushkarjoglekar)
 
-### [](#header-3)Professional 
+## [](#header-3) Social Networks
 * [LinkedIn](https://www.linkedin.com/in/pushkardj/)
 * [Github](https://github.com/PushkarJ)
-
-### [](#header-3)Personal 
 * [Twitter](https://twitter.com/PuDiJoglekar)
-* [GoodReads](https://www.goodreads.com/user/show/62575989-pushkar-joglekar)
 * [Instagram](https://www.instagram.com/pdjclicks/)
-
+* [GoodReads](https://www.goodreads.com/user/show/62575989-pushkar-joglekar)
