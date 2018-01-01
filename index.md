@@ -7,7 +7,7 @@ title: About
 
 Wow, out of more than [1 billion websites](http://www.internetlivestats.com/watch/websites/), you found me! Welcome :)
 
-I am currently working on the cross roads of:
+As a Security Engineer, I am currently working on the cross-roads of:
 - Information Security
 - Applied Machine Learning
 - Distributed Systems
