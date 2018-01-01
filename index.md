@@ -22,7 +22,10 @@ In my spare time, you will find me:
 - Capturing beautiful sunsets through my camera
 - Sipping hot chocolate and reading a book
 
-## [](#header-2)Social Network Presence
+## [](#header-2) Online Presence
+
+### [](#header-3) Blog
+[Medium](https://medium.com/@pushkarjoglekar)
 
 ### [](#header-3)Professional 
 * [LinkedIn](https://www.linkedin.com/in/pushkardj/)
