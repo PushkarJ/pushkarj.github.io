@@ -12,7 +12,7 @@ I am currently working on the cross-roads of:
 - Applied Machine Learning
 - Distributed Systems
 
-Recently I have successfully led initiatives on:
+Recently, I have successfully led initiatives on:
 - Container Security
 - Secrets Management 
 - Data Protection
