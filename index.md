@@ -5,7 +5,7 @@ title: About
 
 # [](#header-1)About
 
-Wow you found me! This is Pushkar D Joglekar.  
+Wow you found me! 
 
 I am currently working on the cross roads of:
 - Information Security
@@ -26,12 +26,10 @@ In my spare time:
 # [](#header-1)Social Network Presence
 
 ## [](#header-2)Professional 
-
 * [LinkedIn](https://www.linkedin.com/in/pushkardj/)
 * [Github](https://github.com/PushkarJ)
 
 ## [](#header-2)Personal 
-
 * [Twitter](https://twitter.com/PuDiJoglekar)
 * [GoodReads](https://www.goodreads.com/user/show/62575989-pushkar-joglekar)
 * [Instagram](https://www.instagram.com/pdjclicks/)
