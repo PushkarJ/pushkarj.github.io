@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Home
+title: About
 ---
 
-# [](#header-1)About me
+# [](#header-1)About
 
 Hi there, this is Pushkar D Joglekar.  I am currently working on the cross roads of information security, machine learning and distributed systems. Recently I have successfully led initiatives on Docker security, secrets management and data protection. 
 
