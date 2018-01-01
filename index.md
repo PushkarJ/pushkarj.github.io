@@ -9,9 +9,11 @@ title: Home
 
 # [](#header-1)About me
 
-Hi there, this is Pushkar D Joglekar. This is a personal website built using Github pages. 
+Hi there, this is Pushkar D Joglekar.  I am currently working on the cross roads of information security, machine learning and distributed systems. Recently I have successfully led initiatives on Docker security, secrets management and data protection. 
 
-# [](#header-1)Online Presence
+In my spare time, I explore the beautiful Bay Area on his bike, capturing the scenes through his camera, sipping some hot chocolate while reading a book in a quaint coffee house.
+
+# [](#header-1)Social Network
 
 ## [](#header-2)Professional Network
 
