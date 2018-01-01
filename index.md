@@ -17,10 +17,10 @@ Recently I have successfully led initiatives on:
 - Secrets Management 
 - Data Protection
 
-In my spare time:
-- Explore beautiful Bay Area biking trails 
-- Capture beautiful sunsets through my camera
-- Sipping hot chocolate and read a book
+In my spare time, you will find me:
+- Exploring beautiful Bay Area biking trails 
+- Capturing beautiful sunsets through my camera
+- Sipping hot chocolate and reading a book
 
 ## [](#header-2)Social Network Presence
 
