@@ -23,13 +23,13 @@ In my spare time:
 - Sipping some hot chocolate and
 - Reading a book in a quaint coffee house
 
-# [](#header-1)Social Network Presence
+## [](#header-2)Social Network Presence
 
-## [](#header-2)Professional 
+### [](#header-3)Professional 
 * [LinkedIn](https://www.linkedin.com/in/pushkardj/)
 * [Github](https://github.com/PushkarJ)
 
-## [](#header-2)Personal 
+### [](#header-3)Personal 
 * [Twitter](https://twitter.com/PuDiJoglekar)
 * [GoodReads](https://www.goodreads.com/user/show/62575989-pushkar-joglekar)
 * [Instagram](https://www.instagram.com/pdjclicks/)
