@@ -5,9 +5,23 @@ title: About
 
 # [](#header-1)About
 
-Hi there, this is Pushkar D Joglekar.  I am currently working on the cross roads of information security, machine learning and distributed systems. Recently I have successfully led initiatives on Docker security, secrets management and data protection. 
+Wow you found me! This is Pushkar D Joglekar.  
 
-In my spare time, I explore the beautiful Bay Area on his bike, capturing the scenes through his camera, sipping some hot chocolate while reading a book in a quaint coffee house.
+I am currently working on the cross roads of:
+- Information Security
+- Applied Machine Learning
+- Distributed Systems
+
+Recently I have successfully led initiatives on:
+- Docker security
+- Secrets Management 
+- Data Protection
+
+In my spare time:
+- Explore the beautiful Bay Area biking trails, 
+- Capturing the beautiful sunsets through my camera
+- Sipping some hot chocolate and
+- Reading a book in a quaint coffee house
 
 # [](#header-1)Social Network Presence
 
