@@ -2,10 +2,6 @@
 layout: default
 title: Home
 ---
-<div class="blurb">
-	<h1></h1>
-	<p>Testing out github pages</p>
-</div><!-- /.blurb -->
 
 # [](#header-1)About me
 
