@@ -23,8 +23,10 @@ In my spare time, you will find me:
 - Sipping hot ginger chai while reading a book
 
 ## Publications
+
 ### Patents
 * [Systems and Methods for generating behavior profiles for new entities](https://patents.google.com/patent/WO2019013771A1/en)
+
 ### Books
 * Author of both security chapters in [The Kubernetes Book](https://www.amazon.com/Kubernetes-Book-Version-November-2018-ebook/dp/B072TS9ZQZ)
 
