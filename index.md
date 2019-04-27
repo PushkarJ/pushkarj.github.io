@@ -20,7 +20,13 @@ Recently, I have successfully led initiatives on:
 In my spare time, you will find me:
 - Exploring beautiful Bay Area biking trails 
 - Capturing beautiful sunsets through my camera
-- Sipping hot chocolate and reading a book
+- Sipping hot ginger chai while reading a book
+
+## Publications
+### Patents
+* [Systems and Methods for generating behavior profiles for new entities](https://patents.google.com/patent/WO2019013771A1/en)
+### Books
+* Author of both security chapters in [The Kubernetes Book](https://www.amazon.com/Kubernetes-Book-Version-November-2018-ebook/dp/B072TS9ZQZ)
 
 ## [](#header-3) Blog
 * [Medium](https://medium.com/@pushkarjoglekar)
