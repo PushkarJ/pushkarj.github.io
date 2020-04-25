@@ -49,10 +49,3 @@ In my spare time, you will find me:
 
 ## Blog
 * [Medium](https://medium.com/@pushkarjoglekar)
-
-## Social Networks
-* [LinkedIn](https://www.linkedin.com/in/pushkardj/)
-* [Github](https://github.com/PushkarJ)
-* [Twitter](https://twitter.com/PuDiJoglekar)
-* [Instagram](https://www.instagram.com/pdjclicks/)
-* [GoodReads](https://www.goodreads.com/user/show/62575989-pushkar-joglekar)
