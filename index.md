@@ -25,7 +25,7 @@ In my spare time, you will find me:
 
 ### External visibility
 * [CSOOnline: How Visa built its own container security solution, March 2020](https://www.csoonline.com/article/3529974/how-visa-built-its-own-container-security-solution.html)
-* [ItOpsTimes: Securing Kubernetes with STRIDE](https://www.itopstimes.com/itsec/kubecon-securing-kubernetes-with-stride/)
+* [ItOpsTimes: Securing Kubernetes with STRIDE, Nov. 2019](https://www.itopstimes.com/itsec/kubecon-securing-kubernetes-with-stride/)
 
 ### Books
 * Author of both security chapters in [The Kubernetes Book](https://www.amazon.com/dp/1521823634)
