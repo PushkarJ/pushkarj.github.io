@@ -44,8 +44,8 @@ In my spare time, you will find me:
 
 ## Awards
 
-* [CSO50 2019: Next Generation Security Product Award, Nov. 2019](https://usa.visa.com/visa-everywhere/blog/bdp/2019/11/14/safety-in-numbers-1573775010350.html)
-* [CMU INI 2015: Outstanding Student Service Award for Teaching Assistant, May 2015](https://www.cmu.edu/ini/news/2015/awards.html)
+* [CSO50 2019: Next Generation Security Product Award](https://usa.visa.com/visa-everywhere/blog/bdp/2019/11/14/safety-in-numbers-1573775010350.html)
+* [CMU INI 2015: Outstanding Student Service Award for Teaching Assistant](https://www.cmu.edu/ini/news/2015/awards.html)
 
 ## Blog
 * [Medium](https://medium.com/@pushkarjoglekar)
