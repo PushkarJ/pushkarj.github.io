@@ -27,8 +27,10 @@ In my spare time, you will find me:
 * [CSOOnline: How Visa built its own container security solution, March 2020](https://www.csoonline.com/article/3529974/how-visa-built-its-own-container-security-solution.html)
 * [ItOpsTimes: Securing Kubernetes with STRIDE, Nov. 2019](https://www.itopstimes.com/itsec/kubecon-securing-kubernetes-with-stride/)
 
-### Books
-* Author of both security chapters in [The Kubernetes Book](https://www.amazon.com/dp/1521823634)
+### Books, Papers and Blogs
+* Both security chapters in [The Kubernetes Book](https://www.amazon.com/dp/1521823634)
+* [Cloud Native Security Whitepaper v1.0](https://github.com/cncf/sig-security/blob/master/security-whitepaper/CNCF_cloud-native-security-whitepaper-Nov2020.pdf)
+* [Kubernetes Blog post: Cloud native security for your clusters](https://kubernetes.io/blog/2020/11/18/cloud-native-security-for-your-clusters) 
 
 ### Speaking engagements
 * [KubeCon/CloudNativeCon 2019: Security Beyond Buzzwords: How to secure Kubernetes with Empathy?](https://kccncna19.sched.com/event/Uad6/security-beyond-buzzwords-how-to-secure-kubernetes-with-empathy-pushkar-joglekar-visa)
