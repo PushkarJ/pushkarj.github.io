@@ -7,7 +7,7 @@ title: About
 
 Wow, out of more than [1 billion websites](http://www.internetlivestats.com/watch/websites/), you found me! Thanks for dropping by and Welcome :)
 
-I am a Sr. Software Engineer ([VMware Tanzu](https://tanzu.vmware.com/tanzu)), currently working towards a goal to _Make Kubernetes Secure For All_ through insights from securing planetscale container environments in a very large end user (Fortune 500) company. Donned several hats in the past as an engineer, architect, mentor and people manager and is a better person because of it. 
+I am a Sr. Software Engineer ([VMware Tanzu](https://tanzu.vmware.com/tanzu)), currently working towards a goal to _Make Kubernetes Secure For All_ through insights from securing planetscale container environments in a very large end user (Fortune 500) company. Fortunate to have donned several hats in the past as an engineer, architect, mentor, people / hiring manager and I feel those experiences made me a better person.  
 
 In my free time, you will find me taking photos, watching cricket and firmly believing that Tea fixes everything!
 
