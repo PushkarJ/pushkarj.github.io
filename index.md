@@ -5,27 +5,21 @@ title: About
 
 # About
 
-Wow, out of more than [1 billion websites](http://www.internetlivestats.com/watch/websites/), you found me! Welcome :)
+Wow, out of more than [1 billion websites](http://www.internetlivestats.com/watch/websites/), you found me! Thanks for dropping by and Welcome :)
 
-Working on the cross-roads of:
-- Information Security
-- Applied Machine Learning
-- Distributed Systems
+I am a Sr. Software Engineer ([VMware Tanzu](https://tanzu.vmware.com/tanzu)), currently working towards a goal to _Make Kubernetes Secure For All_ through insights from securing planetscale container environments in a very large end user (Fortune 500) company. Donned several hats in the past as an engineer, architect, mentor and people manager and is a better person because of it. 
 
-Recently, successfully led initiatives on:
-- Container Security
-- Secrets Management 
-
-In my spare time, you will find me:
-- Exploring pleasant Bay Area biking trails 
-- Capturing beautiful sunsets through my camera
-- Sipping hot ginger chai while reading a book
+In my free time, you will find me taking photos, watching cricket and firmly believing that Tea fixes everything!
 
 ## Publications
 
 ### External visibility
 * [CSOOnline: How Visa built its own container security solution, March 2020](https://www.csoonline.com/article/3529974/how-visa-built-its-own-container-security-solution.html)
 * [ItOpsTimes: Securing Kubernetes with STRIDE, Nov. 2019](https://www.itopstimes.com/itsec/kubecon-securing-kubernetes-with-stride/)
+
+### Contributing member
+* [CNCF STAG (Security Technical Advisory Group)](https://github.com/cncf/tag-security#stag-members)
+* [Kubernetes SIG (Special Interest Group) Security](https://github.com/kubernetes/community/tree/master/sig-security)
 
 ### Books, Papers and Blogs
 * Both security chapters in [The Kubernetes Book](https://www.amazon.com/dp/1521823634)
@@ -43,6 +37,7 @@ In my spare time, you will find me:
 * [Systems and methods to secure api platforms](https://patents.google.com/patent/WO2020005263A1)
 * [Proactive defense of untrustworthy machine learning system](https://patents.google.com/patent/WO2020040776A1)
 * [Model shift prevention through machine learning](https://patents.google.com/patent/WO2020040777A1)
+* [Systems, Methods, and Computer Program Products for Authorizing a Transaction](https://patents.google.com/patent/US20210065194A1/)
 
 ## Awards
 
