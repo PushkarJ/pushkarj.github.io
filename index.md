@@ -7,19 +7,21 @@ title: About
 
 Wow, out of more than [1 billion websites](http://www.internetlivestats.com/watch/websites/), you found me! Thanks for dropping by and Welcome :)
 
-I am a Sr. Software Engineer ([VMware Tanzu](https://tanzu.vmware.com/tanzu)), currently working towards a goal to _Make Kubernetes Secure For All_. Previously, worked on securing planetscale container environments in a very large end user (Fortune 500) company. Fortunate to have donned several hats in the past as an engineer, architect, mentor, people / hiring manager and I feel those experiences made me a better person.  
+I am a Sr. Software Engineer ([VMware Tanzu](https://tanzu.vmware.com/tanzu)), currently working towards a goal to _Make Kubernetes Secure For All_. Previously, worked on securing planetscale container environments in a very large end user (Fortune 500) company. 
+
+Fortunate to have donned several hats in the past as an engineer, architect, mentor, people / hiring manager and I feel those experiences made me a better person.  
 
 In my free time, you will find me taking photos, watching cricket and firmly believing that Tea fixes everything!
 
-## Publications
-
-### External visibility
-* [CSOOnline: How Visa built its own container security solution, March 2020](https://www.csoonline.com/article/3529974/how-visa-built-its-own-container-security-solution.html)
-* [ItOpsTimes: Securing Kubernetes with STRIDE, Nov. 2019](https://www.itopstimes.com/itsec/kubecon-securing-kubernetes-with-stride/)
-
-### Contributing member
+## Contributing member
 * [CNCF STAG (Security Technical Advisory Group)](https://github.com/cncf/tag-security#stag-members)
 * [Kubernetes SIG (Special Interest Group) Security](https://github.com/kubernetes/community/tree/master/sig-security)
+
+## Publications
+
+### Press Coverage
+* [CSOOnline: How Visa built its own container security solution, March 2020](https://www.csoonline.com/article/3529974/how-visa-built-its-own-container-security-solution.html)
+* [ItOpsTimes: Securing Kubernetes with STRIDE, Nov. 2019](https://www.itopstimes.com/itsec/kubecon-securing-kubernetes-with-stride/)
 
 ### Books, Papers and Blogs
 * Both security chapters in [The Kubernetes Book](https://www.amazon.com/dp/1521823634)
