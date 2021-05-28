@@ -29,7 +29,7 @@ In my free time, you will find me taking photos, watching cricket and firmly bel
 * [Kubernetes Blog post: Cloud native security for your clusters](https://kubernetes.io/blog/2020/11/18/cloud-native-security-for-your-clusters) 
 
 ### Speaking engagements
-* [KubeCon/CloudNativeCon 2019: Security Beyond Buzzwords: How to secure Kubernetes with Empathy?](https://kccncna19.sched.com/event/Uad6/security-beyond-buzzwords-how-to-secure-kubernetes-with-empathy-pushkar-joglekar-visa)
+* [KubeCon/CloudNativeCon 2019: Security Beyond Buzzwords: How to Secure Kubernetes with Empathy?](https://kccncna19.sched.com/event/Uad6/security-beyond-buzzwords-how-to-secure-kubernetes-with-empathy-pushkar-joglekar-visa)
 
 ### Patents
 * [Microservice adaptive security hardening](https://patents.google.com/patent/WO2020060537A1)
