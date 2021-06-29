@@ -16,7 +16,7 @@ In my free time, you will find me taking photos, watching cricket and firmly bel
 ## Contributing member
 
 ### CNCF 
-  * [TAG Security (Technical Advisory Group)](https://github.com/cncf/tag-security#stag-members)
+  * [TAG (Technical Advisory Group) Security](https://github.com/cncf/tag-security#stag-members)
   * [Speakers Bureau](https://www.cncf.io/speaker/pushkarj/)
 
 ### Kubernetes 
