@@ -14,8 +14,13 @@ Fortunate to have donned several hats in the past as an engineer, architect, men
 In my free time, you will find me taking photos, watching cricket and firmly believing that Tea fixes everything!
 
 ## Contributing member
-* [CNCF STAG (Security Technical Advisory Group)](https://github.com/cncf/tag-security#stag-members)
-* [Kubernetes SIG (Special Interest Group) Security](https://github.com/kubernetes/community/tree/master/sig-security)
+
+### CNCF 
+  * [TAG Security (Technical Advisory Group)](https://github.com/cncf/tag-security#stag-members)
+  * [Speakers Bureau](https://www.cncf.io/speaker/pushkarj/)
+
+### Kubernetes 
+  * [SIG (Special Interest Group) Security](https://github.com/kubernetes/community/tree/master/sig-security)
 
 ## Publications
 
