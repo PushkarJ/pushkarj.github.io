@@ -35,6 +35,10 @@ In my free time, you will find me taking photos, watching cricket and firmly bel
 
 ### Speaking engagements
 * [KubeCon/CloudNativeCon 2019: Security Beyond Buzzwords: How to Secure Kubernetes with Empathy?](https://kccncna19.sched.com/event/Uad6/security-beyond-buzzwords-how-to-secure-kubernetes-with-empathy-pushkar-joglekar-visa)
+* Kubernetes Security Bangalore Meetup
+  * [Youtube Recording](https://youtu.be/W6YQNuJsFqU?t=2491)
+  * [Meetup Event](https://www.meetup.com/kubernetes-openshift-India-Meetup/events/279192256)
+  * [Slides](./talks/k8s-meetup-blr-2021-htmfawoyst.pdf)
 
 ### Patents
 * [Microservice adaptive security hardening](https://patents.google.com/patent/WO2020060537A1)
