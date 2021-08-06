@@ -37,8 +37,12 @@ In my free time, you will find me taking photos, watching cricket and firmly bel
 * [Kubernetes Blog post: Cloud native security for your clusters](https://kubernetes.io/blog/2020/11/18/cloud-native-security-for-your-clusters) 
 
 ### Speaking engagements
-* [KubeCon/CloudNativeCon 2019: Security Beyond Buzzwords: How to Secure Kubernetes with Empathy?](https://kccncna19.sched.com/event/Uad6/security-beyond-buzzwords-how-to-secure-kubernetes-with-empathy-pushkar-joglekar-visa)
-* Kubernetes Security Bangalore Meetup
+* [KubeCon + CloudNativeCon](https://www.cncf.io/kubecon-cloudnativecon-events/) 
+  * [Security Beyond Buzzwords: How to Secure Kubernetes with Empathy?, Nov 2019](https://kccncna19.sched.com/event/Uad6/security-beyond-buzzwords-how-to-secure-kubernetes-with-empathy-pushkar-joglekar-visa)
+  * [Keeping Up with the CVEs: How to Find a Needle in a Haystack?, Oct 2021](https://kccncna2021.sched.com/event/lV48)
+  * [Security Through Transparency: Kubernetes SIG Security Update, Oct 2021](https://kccncna2021.sched.com/event/lV7Q)
+
+* [Kubernetes Security Bangalore Meetup, July 2021](https://www.meetup.com/kubernetes-openshift-India-Meetup/)
   * [Youtube Recording](https://youtu.be/W6YQNuJsFqU?t=2491)
   * [Meetup Event](https://www.meetup.com/kubernetes-openshift-India-Meetup/events/279192256)
   * [Slides](https://github.com/PushkarJ/pushkarj.github.io/blob/master/talks/k8s-meetup-blr-2021-htmfawoyst.pdf)
