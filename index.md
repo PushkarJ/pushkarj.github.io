@@ -18,6 +18,8 @@ In my free time, you will find me taking photos, watching cricket and firmly bel
 ### CNCF 
   * [TAG (Technical Advisory Group) Security](https://github.com/cncf/tag-security#stag-members)
   * [Speakers Bureau](https://www.cncf.io/speaker/pushkarj/)
+  * [Program Committee Member](https://www.cncf.io/blog/2021/08/04/inside-the-numbers-the-kubecon-cloudnativecon-selection-process-for-kubecon-cloudnativecon-north-america-2021/)
+    * [KubeCon + CloudNativeCon North America 2021](https://www.credly.com/badges/2dc7336e-ad39-4a1c-a6f9-e88012d6d1af/public_url)
 
 ### Kubernetes 
   * [SIG (Special Interest Group) Security](https://github.com/kubernetes/community/tree/master/sig-security)
