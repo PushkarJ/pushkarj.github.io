@@ -34,9 +34,13 @@ In my free time, you will find me taking photos, watching cricket and firmly bel
 * [ItOpsTimes: Securing Kubernetes with STRIDE, Nov. 2019](https://www.itopstimes.com/itsec/kubecon-securing-kubernetes-with-stride/)
 
 ### Books, Papers and Blogs
-* Both security chapters in [The Kubernetes Book](https://www.amazon.com/dp/1521823634)
-* [Cloud Native Security Whitepaper v1.0](https://github.com/cncf/sig-security/blob/master/security-whitepaper/CNCF_cloud-native-security-whitepaper-Nov2020.pdf)
-* [Kubernetes Blog post: Cloud native security for your clusters](https://kubernetes.io/blog/2020/11/18/cloud-native-security-for-your-clusters) 
+* [The Kubernetes Book](https://www.amazon.com/dp/1521823634), both security chapters
+* Kubernetes Blog posts
+  * [Cloud native security for your clusters](https://kubernetes.io/blog/2020/11/18/cloud-native-security-for-your-clusters)
+  * [A Closer Look at NSA/CISA Kubernetes Hardening Guidance](https://kubernetes.io/blog/2021/10/05/nsa-cisa-kubernetes-hardening-guidance/)
+* Reference Papers:
+  * [Cloud Native Security Whitepaper v1.0](https://github.com/cncf/sig-security/blob/master/security-whitepaper/CNCF_cloud-native-security-whitepaper-Nov2020.pdf)
+  * [Cloud Native Security Lexicon](https://github.com/cncf/tag-security/blob/main/security-lexicon/cloud-native-security-lexicon.md)
 
 ### Speaking engagements
 * [KubeCon + CloudNativeCon](https://www.cncf.io/kubecon-cloudnativecon-events/) 
