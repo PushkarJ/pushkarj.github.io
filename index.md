@@ -55,7 +55,7 @@ In my free time, you will find me taking photos, watching cricket and firmly bel
   * [Meetup Event](https://www.meetup.com/kubernetes-openshift-India-Meetup/events/279192256)
   * [Slides](https://github.com/PushkarJ/pushkarj.github.io/blob/master/talks/k8s-meetup-blr-2021-htmfawoyst.pdf)
 
-* [Thank God Its Kubernetes: Episode 171 "Pod Security Problems", Oct. 2019](https://youtu.be/Vk1ARLbAcVc)
+* [Thank God Its Kubernetes: Episode 171 "Pod Security Problems", Oct. 2021](https://youtu.be/Vk1ARLbAcVc)
 
 ### Patents
 * [Microservice adaptive security hardening](https://patents.google.com/patent/WO2020060537A1)
