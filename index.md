@@ -48,7 +48,9 @@ In my free time, you will find me taking photos, watching cricket and firmly bel
 * [KubeCon + CloudNativeCon](https://www.cncf.io/kubecon-cloudnativecon-events/) 
   * [Security Beyond Buzzwords: How to Secure Kubernetes with Empathy?, Nov 2019](https://kccncna19.sched.com/event/Uad6/security-beyond-buzzwords-how-to-secure-kubernetes-with-empathy-pushkar-joglekar-visa)
   * [Keeping Up with the CVEs: How to Find a Needle in a Haystack?, Oct 2021](https://kccncna2021.sched.com/event/lV48)
+    * [Youtube Recording](https://youtu.be/2cvWmY4xvLU)   
   * [Security Through Transparency: Kubernetes SIG Security Update, Oct 2021](https://kccncna2021.sched.com/event/lV7Q)
+    * [Youtube Recording](https://youtu.be/O5Wy7zSigOU) 
 
 * [Kubernetes Security Bangalore Meetup, July 2021](https://www.meetup.com/kubernetes-openshift-India-Meetup/)
   * [Youtube Recording](https://youtu.be/W6YQNuJsFqU?t=2491)
