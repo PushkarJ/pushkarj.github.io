@@ -32,7 +32,7 @@ In my free time, you will find me taking photos, watching cricket and firmly bel
 ### Press Coverage
 * [CSOOnline: How Visa built its own container security solution, March 2020](https://www.csoonline.com/article/3529974/how-visa-built-its-own-container-security-solution.html)
 * [ItOpsTimes: Securing Kubernetes with STRIDE, Nov. 2019](https://www.itopstimes.com/itsec/kubecon-securing-kubernetes-with-stride/)
-* [Catch up with Security SIG from KubeCon, Oct. 2019](https://solutions.storychief.io/catch-up-with-the-security-sig-from-kubecon)
+* [Catch up with Security SIG from KubeCon, Oct. 2021](https://solutions.storychief.io/catch-up-with-the-security-sig-from-kubecon)
 
 ### Books, Papers and Blogs
 * [The Kubernetes Book](https://www.amazon.com/dp/1521823634), both security chapters
