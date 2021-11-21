@@ -17,7 +17,6 @@ In my free time, you will find me taking photos, watching cricket and firmly bel
 
 ### CNCF 
   * [TAG (Technical Advisory Group) Security](https://github.com/cncf/tag-security#stag-members)
-  * [Speakers Bureau](https://www.cncf.io/speaker/pushkarj/)
   * [Program Committee Member](https://www.cncf.io/blog/2021/08/04/inside-the-numbers-the-kubecon-cloudnativecon-selection-process-for-kubecon-cloudnativecon-north-america-2021/)
     * [KubeCon + CloudNativeCon North America 2021](https://www.credly.com/badges/2dc7336e-ad39-4a1c-a6f9-e88012d6d1af/public_url)
 
@@ -29,20 +28,21 @@ In my free time, you will find me taking photos, watching cricket and firmly bel
 
 ## Publications
 
-### Press Coverage
+### Featured Coverage
 * [CSOOnline: How Visa built its own container security solution, March 2020](https://www.csoonline.com/article/3529974/how-visa-built-its-own-container-security-solution.html)
 * [ItOpsTimes: Securing Kubernetes with STRIDE, Nov. 2019](https://www.itopstimes.com/itsec/kubecon-securing-kubernetes-with-stride/)
 * [Catch up with Security SIG from KubeCon, Oct. 2021](https://solutions.storychief.io/catch-up-with-the-security-sig-from-kubecon)
+* [Navigating the messy world of (too many) CVEs, Nov. 2021](https://www.skedler.com/blog/common-vulnerabilities-and-exposures)
 
 ### Books, Papers and Blogs
-* [The Kubernetes Book](https://www.amazon.com/dp/1521823634), both security chapters
+* [The Kubernetes Book, 2017-Present](https://www.amazon.com/dp/1521823634), both security chapters
 * Kubernetes Blog posts
   * [Cloud native security for your clusters](https://kubernetes.io/blog/2020/11/18/cloud-native-security-for-your-clusters)
   * [A Closer Look at NSA/CISA Kubernetes Hardening Guidance](https://kubernetes.io/blog/2021/10/05/nsa-cisa-kubernetes-hardening-guidance/)
 
 * Reference Papers:
-  * [Cloud Native Security Whitepaper v1.0](https://github.com/cncf/sig-security/blob/master/security-whitepaper/CNCF_cloud-native-security-whitepaper-Nov2020.pdf)
-  * [Cloud Native Security Lexicon](https://github.com/cncf/tag-security/blob/main/security-lexicon/cloud-native-security-lexicon.md)
+  * [Cloud Native Security Whitepaper v1.0, Nov. 2020](https://github.com/cncf/sig-security/blob/master/security-whitepaper/CNCF_cloud-native-security-whitepaper-Nov2020.pdf)
+  * [Cloud Native Security Lexicon, Aug. 2020](https://github.com/cncf/tag-security/blob/main/security-lexicon/cloud-native-security-lexicon.md)
 
 ### Speaking engagements
 * [KubeCon + CloudNativeCon](https://www.cncf.io/kubecon-cloudnativecon-events/) 
@@ -57,7 +57,9 @@ In my free time, you will find me taking photos, watching cricket and firmly bel
   * [Meetup Event](https://www.meetup.com/kubernetes-openshift-India-Meetup/events/279192256)
   * [Slides](https://github.com/PushkarJ/pushkarj.github.io/blob/master/talks/k8s-meetup-blr-2021-htmfawoyst.pdf)
 
-* [Thank God Its Kubernetes: Episode 171 "Pod Security Problems", Oct. 2021](https://youtu.be/Vk1ARLbAcVc)
+* [Thank God Its Kubernetes](https://www.youtube.com/playlist?list=PL7bmigfV0EqQzxcNpmcdTJ9eFRPBe-iZa)
+  * [Episode 171 "Pod Security Problems", Oct. 2021](https://youtu.be/Vk1ARLbAcVc)
+  * [Episode 174 "Verifying Signed Images with Connaisseur", Nov. 2021](https://youtu.be/LFAmi39CBb4)
 
 ### Patents
 * [Microservice adaptive security hardening](https://patents.google.com/patent/WO2020060537A1)
