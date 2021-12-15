@@ -33,7 +33,7 @@ In my free time, you will find me taking photos, watching cricket and firmly bel
 * [ItOpsTimes: Securing Kubernetes with STRIDE, Nov. 2019](https://www.itopstimes.com/itsec/kubecon-securing-kubernetes-with-stride/)
 * [Storychief: Catch up with Security SIG from KubeCon, Oct. 2021](https://solutions.storychief.io/catch-up-with-the-security-sig-from-kubecon)
 * [Skedler: Navigating the messy world of (too many) CVEs, Nov. 2021](https://www.skedler.com/blog/common-vulnerabilities-and-exposures)
-* [VMware Open Source Blog: Upstream: Jump on In, the Water’s Fine!](https://blogs.vmware.com/opensource/2021/12/09/upstream-jump-on-in-the-waters-fine/)
+* [VMware Open Source Blog: Upstream: Jump on In, the Water’s Fine!, Dec. 2021](https://blogs.vmware.com/opensource/2021/12/09/upstream-jump-on-in-the-waters-fine/)
 
 ### Books, Papers and Blogs
 * [The Kubernetes Book, 2017-Present](https://www.amazon.com/dp/1521823634), both security chapters
