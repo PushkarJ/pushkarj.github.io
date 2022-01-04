@@ -16,13 +16,13 @@ In his free time, he loves taking photos, watching cricket and firmly believes t
 ## Current Affiliations
 
 ### [CNCF (Cloud Native Computing Foundation)](https://www.cncf.io/)
-  * [Among Top 50 contributors worldwide](https://all.devstats.cncf.io/d/9/developer-activity-counts-by-repository-group-table?orgId=1&var-period_name=Last%20year&var-metric=contributions&var-repogroup_name=CNCF&var-country_name=All)
+  * [Among Top 50 contributors worldwide](https://all.devstats.cncf.io/d/9/developer-activity-counts-by-repository-group-table?orgId=1&var-period_name=Last%20year&var-metric=contributions&var-repogroup_name=CNCF&var-country_name=All) in the last 12 months
   * [TAG (Technical Advisory Group) Security Member](https://github.com/cncf/tag-security#stag-members)
   * [Program Committee Member](https://www.cncf.io/blog/2021/08/04/inside-the-numbers-the-kubecon-cloudnativecon-selection-process-for-kubecon-cloudnativecon-north-america-2021/)
     * [KubeCon + CloudNativeCon North America 2021](https://www.credly.com/badges/2dc7336e-ad39-4a1c-a6f9-e88012d6d1af/public_url)
 
 ### [Kubernetes](https://kubernetes.io/)
-  * [Among Top 200 contributors worldwide](https://k8s.devstats.cncf.io/d/13/developer-activity-counts-by-repository-group?orgId=1&var-period_name=Last%20year&var-metric=contributions&var-repogroup_name=Kubernetes&var-repo_name=kubernetes%2Fkubernetes&var-country_name=All)
+  * [Among Top 200 contributors worldwide](https://k8s.devstats.cncf.io/d/13/developer-activity-counts-by-repository-group?orgId=1&var-period_name=Last%20year&var-metric=contributions&var-repogroup_name=Kubernetes&var-repo_name=kubernetes%2Fkubernetes&var-country_name=All) in the last 12 months
   * [SIG (Special Interest Group) Security:](https://github.com/kubernetes/community/tree/master/sig-security) [Tooling Sub-Project Lead](https://github.com/kubernetes/community/tree/master/sig-security)
 
 ### [PCI (Payment Card Industry)](https://www.pcisecuritystandards.org/) 
