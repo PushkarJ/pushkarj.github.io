@@ -7,9 +7,9 @@ title: About
 
 Thanks for dropping by and Welcome :)
 
-Pushkar Joglekar is a Sr. Security Engineer currently working at [VMware Tanzu](https://tanzu.vmware.com/tanzu/) with the goal to "Make _Kubernetes_ Secure For All". He is an active contributor to CNCF Security - TAG and leads the Kubernetes SIG Security Tooling sub-project.
+Pushkar Joglekar is a Sr. Security Engineer currently working at [VMware Tanzu](https://tanzu.vmware.com/tanzu/) with the goal to "Make _Kubernetes_ Secure For All". He is an active contributor to [CNCF Security - TAG](#cncf-cloud-native-computing-foundation) and leads the [Kubernetes SIG Security Tooling](#kubernetes) sub-project.
 
-During the last couple of years, he feels incredibly fortunate to have written the security chapters in Nigel Poulton’s “The Kubernetes Book” which he looks forward to updating every year. Prior to this current role, he worked on securing massive Kubernetes deployments at [Visa](https://usa.visa.com) (end user), playing a dual role of a security architect and engineer. He is also the co-creator of container runtime security tool: MASHUP
+During the last couple of years, he feels incredibly fortunate to have written the security chapters in Nigel Poulton’s [“The Kubernetes Book”](#publications) which he looks forward to updating every year. Prior to this current role, he worked on securing massive Kubernetes deployments at [Visa](https://usa.visa.com) (end user), playing a dual role of a security architect and engineer. He is also the co-creator of award winning container runtime security tool: [MASHUP](#awards)
 
 In his free time, he loves taking photos, watching cricket and firmly believes that Chai fixes everything!
 
@@ -53,7 +53,7 @@ Pushkar is based in San Francisco Bay Area!
 * [CSOOnline: How Visa built its own container security solution, March 2020](https://www.csoonline.com/article/3529974/how-visa-built-its-own-container-security-solution.html)
 * [ItOpsTimes: Securing Kubernetes with STRIDE, Nov. 2019](https://www.itopstimes.com/itsec/kubecon-securing-kubernetes-with-stride/)
 
-## Books, Papers and Blogs
+## Publications
 * [The Kubernetes Book, 2019-Present](https://www.amazon.com/dp/1521823634), both security chapters
 * Kubernetes Blog posts:
   * [A Closer Look at NSA/CISA Kubernetes Hardening Guidance, Oct. 2021](https://kubernetes.io/blog/2021/10/05/nsa-cisa-kubernetes-hardening-guidance/)
