@@ -28,7 +28,7 @@ In his free time, he loves taking photos, watching cricket and firmly believes t
 ### [PCI (Payment Card Industry)](https://www.pcisecuritystandards.org/) 
   * [SIG (Special Interest Group): Best Practices for Container Orchestration](https://blog.pcisecuritystandards.org/pci-ssc-announces-2021-special-interest-group-election-results)
 
-### Patents
+## Patents
 * [(5 Citations)](https://patents.google.com/patent/WO2020060537A1#patentCitations) [Microservice adaptive security hardening](https://patents.google.com/patent/WO2020060537A1)
 * [(11 Citations)](https://patents.google.com/patent/WO2019013771A1#patentCitations) [Systems and Methods for generating behavior profiles for new entities](https://patents.google.com/patent/WO2019013771A1)
 * [(5 Citations)](https://patents.google.com/patent/WO2019213086A1#patentCitations) [Self-learning alerting and anomaly detection in monitoring systems](https://patents.google.com/patent/WO2019213086A1)
