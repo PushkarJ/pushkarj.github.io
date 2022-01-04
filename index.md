@@ -23,8 +23,7 @@ In my free time, you will find me taking photos, watching cricket and firmly bel
 
 ### [Kubernetes](https://kubernetes.io/)
   * [Among Top 200 contributors worldwide](https://k8s.devstats.cncf.io/d/13/developer-activity-counts-by-repository-group?orgId=1&var-period_name=Last%20year&var-metric=contributions&var-repogroup_name=Kubernetes&var-repo_name=kubernetes%2Fkubernetes&var-country_name=All)
-  * [SIG (Special Interest Group) Security](https://github.com/kubernetes/community/tree/master/sig-security)
-    * Leads Tooling Sub-project 
+  * [SIG (Special Interest Group) Security:](https://github.com/kubernetes/community/tree/master/sig-security) [Tooling Sub-Project Lead](https://github.com/kubernetes/community/tree/master/sig-security)
 
 ### [PCI (Payment Card Industry)](https://www.pcisecuritystandards.org/) 
   * [SIG (Special Interest Group): Best Practices for Container Orchestration](https://blog.pcisecuritystandards.org/pci-ssc-announces-2021-special-interest-group-election-results)
