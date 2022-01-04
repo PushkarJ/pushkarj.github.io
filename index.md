@@ -7,11 +7,13 @@ title: About
 
 Thanks for dropping by and Welcome :)
 
-Pushkar Joglekar is a Sr. Security Engineer currently working at VMware with the goal to "Make Kubernetes Secure For All". He is an active contributor to CNCF Security - TAG and leads the Kubernetes SIG Security Tooling sub-project.
+Pushkar Joglekar is a Sr. Security Engineer currently working at [VMware Tanzu](https://tanzu.vmware.com/tanzu/) with the goal to "Make _Kubernetes_ Secure For All". He is an active contributor to CNCF Security - TAG and leads the Kubernetes SIG Security Tooling sub-project.
 
-During the last couple of years, he feels incredibly fortunate to have written the security chapters in Nigel Poulton’s “The Kubernetes Book” which he looks forward to updating every year. Prior to this current role, he worked on securing massive Kubernetes deployments at Visa (end user), playing a dual role of a security architect and engineer. He is also the co-creator of container runtime security tool: MASHUP
+During the last couple of years, he feels incredibly fortunate to have written the security chapters in Nigel Poulton’s “The Kubernetes Book” which he looks forward to updating every year. Prior to this current role, he worked on securing massive Kubernetes deployments at [Visa](https://usa.visa.com) (end user), playing a dual role of a security architect and engineer. He is also the co-creator of container runtime security tool: MASHUP
 
 In his free time, he loves taking photos, watching cricket and firmly believes that Chai fixes everything!
+
+Pushkar is based in San Francisco Bay Area!
 
 ## Current Affiliations
 
