@@ -26,7 +26,7 @@ In my free time, you will find me taking photos, watching cricket and firmly bel
   * [SIG (Special Interest Group) Security](https://github.com/kubernetes/community/tree/master/sig-security)
     * Leads Tooling Sub-project 
 
-### PCI (Payment Card Industry) 
+### [PCI (Payment Card Industry)](https://www.pcisecuritystandards.org/) 
   * [SIG (Special Interest Group): Best Practices for Container Orchestration](https://blog.pcisecuritystandards.org/pci-ssc-announces-2021-special-interest-group-election-results)
 
 ## Publications
