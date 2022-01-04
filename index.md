@@ -13,15 +13,18 @@ Fortunate to have donned several hats in the past as an engineer, architect, men
 
 In my free time, you will find me taking photos, watching cricket and firmly believing that Tea fixes everything!
 
-## Contributing member
+## Current Affiliations
 
-### CNCF 
+### [CNCF (Cloud Native Computing Foundation)](https://www.cncf.io/)
+  * [Among Top 50 contributors worldwide](https://all.devstats.cncf.io/d/9/developer-activity-counts-by-repository-group-table?orgId=1&var-period_name=Last%20year&var-metric=contributions&var-repogroup_name=CNCF&var-country_name=All)
   * [TAG (Technical Advisory Group) Security](https://github.com/cncf/tag-security#stag-members)
   * [Program Committee Member](https://www.cncf.io/blog/2021/08/04/inside-the-numbers-the-kubecon-cloudnativecon-selection-process-for-kubecon-cloudnativecon-north-america-2021/)
     * [KubeCon + CloudNativeCon North America 2021](https://www.credly.com/badges/2dc7336e-ad39-4a1c-a6f9-e88012d6d1af/public_url)
 
-### Kubernetes 
+### [Kubernetes](https://kubernetes.io/)
+  * [Among Top 200 contributors worldwide](https://k8s.devstats.cncf.io/d/13/developer-activity-counts-by-repository-group?orgId=1&var-period_name=Last%20year&var-metric=contributions&var-repogroup_name=Kubernetes&var-repo_name=kubernetes%2Fkubernetes&var-country_name=All)
   * [SIG (Special Interest Group) Security](https://github.com/kubernetes/community/tree/master/sig-security)
+    * Leads Tooling Sub-project 
 
 ### PCI SIG (Payment Card Industry Special Interest Group) 
   * [Best Practices for Container Orchestration](https://blog.pcisecuritystandards.org/pci-ssc-announces-2021-special-interest-group-election-results)
@@ -37,42 +40,51 @@ In my free time, you will find me taking photos, watching cricket and firmly bel
 
 ### Books, Papers and Blogs
 * [The Kubernetes Book, 2017-Present](https://www.amazon.com/dp/1521823634), both security chapters
-* Kubernetes Blog posts
-  * [Cloud native security for your clusters](https://kubernetes.io/blog/2020/11/18/cloud-native-security-for-your-clusters)
-  * [A Closer Look at NSA/CISA Kubernetes Hardening Guidance](https://kubernetes.io/blog/2021/10/05/nsa-cisa-kubernetes-hardening-guidance/)
+* Kubernetes Blog posts:
+  * [A Closer Look at NSA/CISA Kubernetes Hardening Guidance, Oct. 2021](https://kubernetes.io/blog/2021/10/05/nsa-cisa-kubernetes-hardening-guidance/)
+  * [Cloud native security for your clusters, Nov. 2020](https://kubernetes.io/blog/2020/11/18/cloud-native-security-for-your-clusters)
 
 * Reference Papers:
   * [Cloud Native Security Whitepaper v1.0, Nov. 2020](https://github.com/cncf/sig-security/blob/master/security-whitepaper/CNCF_cloud-native-security-whitepaper-Nov2020.pdf)
   * [Cloud Native Security Lexicon, Aug. 2020](https://github.com/cncf/tag-security/blob/main/security-lexicon/cloud-native-security-lexicon.md)
 
 ### Speaking engagements
+
+* [Thank God Its Kubernetes](https://www.youtube.com/playlist?list=PL7bmigfV0EqQzxcNpmcdTJ9eFRPBe-iZa)
+  * [Episode 174 "Verifying Signed Images with Connaisseur", Nov. 2021](https://youtu.be/LFAmi39CBb4)
+  * [Episode 171 "Pod Security Problems", Oct. 2021](https://youtu.be/Vk1ARLbAcVc)
+
 * [KubeCon + CloudNativeCon](https://www.cncf.io/kubecon-cloudnativecon-events/) 
-  * [Security Beyond Buzzwords: How to Secure Kubernetes with Empathy?, Nov 2019](https://kccncna19.sched.com/event/Uad6/security-beyond-buzzwords-how-to-secure-kubernetes-with-empathy-pushkar-joglekar-visa)
   * [Keeping Up with the CVEs: How to Find a Needle in a Haystack?, Oct 2021](https://kccncna2021.sched.com/event/lV48)
     * [Youtube Recording](https://youtu.be/2cvWmY4xvLU)   
   * [Security Through Transparency: Kubernetes SIG Security Update, Oct 2021](https://kccncna2021.sched.com/event/lV7Q)
     * [Youtube Recording](https://youtu.be/O5Wy7zSigOU) 
+  * [Security Beyond Buzzwords: How to Secure Kubernetes with Empathy?, Nov 2019](https://kccncna19.sched.com/event/Uad6/security-beyond-buzzwords-how-to-secure-kubernetes-with-empathy-pushkar-joglekar-visa)
 
 * [Kubernetes Security Bangalore Meetup, July 2021](https://www.meetup.com/kubernetes-openshift-India-Meetup/)
   * [Youtube Recording](https://youtu.be/W6YQNuJsFqU?t=2491)
   * [Meetup Event](https://www.meetup.com/kubernetes-openshift-India-Meetup/events/279192256)
   * [Slides](https://github.com/PushkarJ/pushkarj.github.io/blob/master/talks/k8s-meetup-blr-2021-htmfawoyst.pdf)
 
-* [Thank God Its Kubernetes](https://www.youtube.com/playlist?list=PL7bmigfV0EqQzxcNpmcdTJ9eFRPBe-iZa)
-  * [Episode 171 "Pod Security Problems", Oct. 2021](https://youtu.be/Vk1ARLbAcVc)
-  * [Episode 174 "Verifying Signed Images with Connaisseur", Nov. 2021](https://youtu.be/LFAmi39CBb4)
-
 ### Patents
 * [Microservice adaptive security hardening](https://patents.google.com/patent/WO2020060537A1)
-* [Systems and Methods for generating behavior profiles for new entities](https://patents.google.com/patent/WO2019013771A1/)
-* [Self-learning alerting and anomaly detection in monitoring systems](https://patents.google.com/patent/WO2019213086A1/)
-* [Real-time entity anomaly detection](https://patents.google.com/patent/WO2019194787A1/)
+  * [5 Citations](https://patents.google.com/patent/WO2020060537A1#patentCitations) 
+* [Systems and Methods for generating behavior profiles for new entities](https://patents.google.com/patent/WO2019013771A1)
+  * [11 Citations](https://patents.google.com/patent/WO2019013771A1#patentCitations)
+* [Self-learning alerting and anomaly detection in monitoring systems](https://patents.google.com/patent/WO2019213086A1)
+  * [5 Citations](https://patents.google.com/patent/WO2019213086A1#patentCitations)
+* [Real-time entity anomaly detection](https://patents.google.com/patent/WO2019194787A1)
+  * [5 Citations](https://patents.google.com/patent/WO2019194787A1#patentCitations) 
 * [Systems and methods to secure api platforms](https://patents.google.com/patent/WO2020005263A1)
+  * [5 Citations](https://patents.google.com/patent/WO2020005263A1#patentCitations)
 * [Proactive defense of untrustworthy machine learning system](https://patents.google.com/patent/WO2020040776A1)
+  * [6 Citations](https://patents.google.com/patent/WO2020040776A1#patentCitations) 
 * [Model shift prevention through machine learning](https://patents.google.com/patent/WO2020040777A1)
-* [Systems, Methods, and Computer Program Products for Authorizing a Transaction](https://patents.google.com/patent/US20210065194A1/)
+  * [5 Citations](https://patents.google.com/patent/WO2020040777A1#patentCitations) 
+* [Systems, Methods, and Computer Program Products for Authorizing a Transaction](https://patents.google.com/patent/US20210065194A1)
 
 ## Awards
 
+* [Kubernetes Community Awards 2021: Security](https://www.kubernetes.dev/community/awards/2021/#security)
 * [CSO50 2019: Next Generation Security Product Award](https://usa.visa.com/visa-everywhere/blog/bdp/2019/11/14/safety-in-numbers-1573775010350.html)
 * [CMU INI 2015: Outstanding Student Service Award for Teaching Assistant](https://www.cmu.edu/ini/news/2015/awards.html)
