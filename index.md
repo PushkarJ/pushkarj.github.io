@@ -47,6 +47,7 @@ Pushkar is based in San Francisco Bay Area!
 * [CMU INI 2015: Outstanding Student Service Award for Teaching Assistant](https://www.cmu.edu/ini/news/2015/awards.html)
 
 ## Media Coverage
+* [How to become a Cloud Native Security Engineer: Cloud Security Podcast, April. 2022](https://cloudsecuritypodcast.tv/listen-to-the-episodes/how-to-become-a-cloud-native-security-engineer/)
 * [VMware Open Source Blog: Upstream: Jump on In, the Water’s Fine!, Dec. 2021](https://blogs.vmware.com/opensource/2021/12/09/upstream-jump-on-in-the-waters-fine/)
 * [Skedler: Navigating the messy world of (too many) CVEs, Nov. 2021](https://www.skedler.com/blog/common-vulnerabilities-and-exposures)
 * [Storychief: Catch up with Security SIG from KubeCon, Oct. 2021](https://solutions.storychief.io/catch-up-with-the-security-sig-from-kubecon)
@@ -70,8 +71,7 @@ Pushkar is based in San Francisco Bay Area!
   * [Episode 187 "Kubernetes Release - Image Signing MVP", March 2022](https://www.youtube.com/watch?v=H1D0fk9sZ8I)
   * [Episode 174 "Verifying Signed Images with Connaisseur", Nov. 2021](https://youtu.be/LFAmi39CBb4)
   * [Episode 171 "Pod Security Problems", Oct. 2021](https://youtu.be/Vk1ARLbAcVc)
-
-
+  
 * [KubeCon + CloudNativeCon](https://www.cncf.io/kubecon-cloudnativecon-events/) 
   * [Keeping Up with the CVEs: How to Find a Needle in a Haystack?, Oct 2021](https://kccncna2021.sched.com/event/lV48)
     * [Youtube Recording](https://youtu.be/2cvWmY4xvLU)   
