@@ -57,6 +57,7 @@ Pushkar is based in San Francisco Bay Area!
 
 ## Publications
 * [The Kubernetes Book, 2019-Present](https://www.amazon.com/dp/B09QFM8H6T), both security chapters
+  * [10 Google Scholar Citations](https://scholar.google.com/scholar?cites=5033671955994310341&as_sdt=2005&sciodt=0,5&hl=en) 
 * Kubernetes Blog posts:
   * [A Closer Look at NSA/CISA Kubernetes Hardening Guidance, Oct. 2021](https://kubernetes.io/blog/2021/10/05/nsa-cisa-kubernetes-hardening-guidance/)
     * Cited by [Updated: NSA/CISA Kubernetes Hardening Guidance v1.1](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/0/CTR_Kubernetes_Hardening_Guidance_1.1_20220315.PDF#page=48) 
@@ -64,6 +65,8 @@ Pushkar is based in San Francisco Bay Area!
 
 * Reference Papers:
   * [Cloud Native Security Whitepaper v1.0, Nov. 2020](https://github.com/cncf/sig-security/blob/master/security-whitepaper/CNCF_cloud-native-security-whitepaper-Nov2020.pdf)
+     * [ACM Citation](https://dl.acm.org/doi/abs/10.1145/3493649.3493655)
+     * [IEEE Citation](https://ieeexplore.ieee.org/abstract/document/9647599)
   * [Cloud Native Security Lexicon, Aug. 2020](https://github.com/cncf/tag-security/blob/main/security-lexicon/cloud-native-security-lexicon.md)
 
 ## Speaking engagements
