@@ -5,7 +5,7 @@ title: About
 
 # About
 
-Pushkar Joglekar is a _Sr. Security Engineer_ currently working at [VMware Tanzu](https://tanzu.vmware.com/tanzu/) with the goal to "Make _Kubernetes_ Secure For All". He is a [CNCF Security - TAG](#cncf-cloud-native-computing-foundation) Tech Lead and leads the [Kubernetes SIG Security Tooling](#kubernetes) Sub-Project.
+Pushkar Joglekar is a _Sr. Security Engineer_ currently working at [VMware Tanzu](https://tanzu.vmware.com/tanzu/) with the goal to "Make _Kubernetes_ Secure For All". He wears multiple hats in the community as a [CNCF Security - TAG](#cncf-cloud-native-computing-foundation) Tech Lead, Associate [Security Response Committee](https://github.com/kubernetes/committee-security-response#security-response-committee-src) Member and leads the [Kubernetes SIG Security Tooling](#kubernetes) Sub-Project.
 
 During the last few years, he feels incredibly fortunate to have written the security chapters in Nigel Poulton’s [“The Kubernetes Book”](#publications) which he looks forward to updating every year. Prior to this current role, he worked on securing massive Kubernetes deployments at [Visa](https://usa.visa.com) (end user), playing a dual role of a security architect and engineer. He is also the co-creator of award winning container runtime security tool: [MASHUP](#awards)
 
@@ -26,6 +26,7 @@ Pushkar is based in San Francisco Bay Area!
   * [Among Top 200 contributors worldwide](https://k8s.devstats.cncf.io/d/13/developer-activity-counts-by-repository-group?orgId=1&var-period_name=Last%20year&var-metric=contributions&var-repogroup_name=Kubernetes&var-repo_name=kubernetes%2Fkubernetes&var-country_name=All) in the last 12 months
   * [SIG (Special Interest Group) Security](https://github.com/kubernetes/community/tree/master/sig-security) 
     * [Tooling Sub-Project Lead](https://github.com/kubernetes/community/tree/master/sig-security)
+  * [Associate Security Response Committee Member](https://github.com/kubernetes/committee-security-response#security-response-committee-src)
 
 ### [PCI (Payment Card Industry)](https://www.pcisecuritystandards.org/) 
   * [SIG (Special Interest Group): Best Practices for Container Orchestration](https://blog.pcisecuritystandards.org/pci-ssc-announces-2021-special-interest-group-election-results)
@@ -48,25 +49,35 @@ Pushkar is based in San Francisco Bay Area!
 
 ## Media Coverage
 
+* [CNCF Blog: Announcing the Refreshed Cloud Native Security Whitepaper, May 2022](https://www.cncf.io/blog/2022/05/18/announcing-the-refreshed-cloud-native-security-whitepaper)
 * [How to become a Cloud Native Security Engineer: Cloud Security Podcast, April 2022](https://cloudsecuritypodcast.tv/listen-to-the-episodes/how-to-become-a-cloud-native-security-engineer/)
 * [VMware Open Source Blog: Upstream: Jump on In, the Water’s Fine!, Dec. 2021](https://blogs.vmware.com/opensource/2021/12/09/upstream-jump-on-in-the-waters-fine/)
 * [Skedler: Navigating the messy world of (too many) CVEs, Nov. 2021](https://www.skedler.com/blog/common-vulnerabilities-and-exposures)
 * [Storychief: Catch up with Security SIG from KubeCon, Oct. 2021](https://solutions.storychief.io/catch-up-with-the-security-sig-from-kubecon)
-* [CSOOnline: How Visa built its own container security solution, March 2020](https://www.csoonline.com/article/3529974/how-visa-built-its-own-container-security-solution.html)
+* [CSOOnline: How Visa Built its Own Container Security Solution, March 2020](https://www.csoonline.com/article/3529974/how-visa-built-its-own-container-security-solution.html)
 * [ItOpsTimes: Securing Kubernetes with STRIDE, Nov. 2019](https://www.itopstimes.com/itsec/kubecon-securing-kubernetes-with-stride/)
 
 ## Publications
 * [The Kubernetes Book, 2019-Present](https://www.amazon.com/dp/B09QFM8H6T), both security chapters
-  * [10 Google Scholar Citations](https://scholar.google.com/scholar?cites=5033671955994310341&as_sdt=2005&sciodt=0,5&hl=en) 
+  * [11 Google Scholar Citations](https://scholar.google.com/scholar?cites=5033671955994310341&as_sdt=2005&sciodt=0,5&hl=en) 
 * Kubernetes Blog posts:
   * [A Closer Look at NSA/CISA Kubernetes Hardening Guidance, Oct. 2021](https://kubernetes.io/blog/2021/10/05/nsa-cisa-kubernetes-hardening-guidance/)
     * Cited by [Updated: NSA/CISA Kubernetes Hardening Guidance v1.1](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/0/CTR_Kubernetes_Hardening_Guidance_1.1_20220315.PDF#page=48) 
-  * [Cloud native security for your clusters, Nov. 2020](https://kubernetes.io/blog/2020/11/18/cloud-native-security-for-your-clusters)
+  * [Cloud Native Security for your Clusters, Nov. 2020](https://kubernetes.io/blog/2020/11/18/cloud-native-security-for-your-clusters)
 
-* Reference Papers:
-  * [Cloud Native Security Whitepaper v1.0, Nov. 2020](https://github.com/cncf/sig-security/blob/master/security-whitepaper/CNCF_cloud-native-security-whitepaper-Nov2020.pdf)
-     * [ACM Citation](https://dl.acm.org/doi/abs/10.1145/3493649.3493655)
-     * [IEEE Citation](https://ieeexplore.ieee.org/abstract/document/9647599)
+* Reference Papers
+  * [Cloud Native Security Whitepaper](https://github.com/cncf/sig-security/blob/master/security-whitepaper)
+     * [Version 1.0, Nov. 2020](https://github.com/cncf/sig-security/blob/master/security-whitepaper/v1/CNCF_cloud-native-security-whitepaper-Nov2020.pdf)
+       * Citations: 
+         * [ACM Citation](https://dl.acm.org/doi/abs/10.1145/3493649.3493655)
+         * [IEEE Citation](https://ieeexplore.ieee.org/abstract/document/9647599)
+         * [Virtualization Review](https://virtualizationreview.com/articles/2021/10/12/cncf-security-surveys.aspx)
+       * Translations:
+         * [Chinese](https://github.com/cncf/tag-security/blob/main/security-whitepaper/v1/cloud-native-security-whitepaper-simplified-chinese.md)
+         * [Portugese](https://github.com/cncf/tag-security/blob/main/security-whitepaper/v1/cloud-native-security-whitepaper-brazilian-portugese.md)
+     * [Version 2.0, May 2022](https://github.com/cncf/tag-security/blob/main/security-whitepaper/v2/CNCF_cloud-native-security-whitepaper-May2022-v2.pdf)
+       * Citations:
+         * [Container Journal](https://containerjournal.com/kubecon-cnc-eu-2022/announcing-the-refreshed-cloud-native-security-whitepaper/) 
   * [Cloud Native Security Lexicon, Aug. 2020](https://github.com/cncf/tag-security/blob/main/security-lexicon/cloud-native-security-lexicon.md)
 
 ## Speaking engagements
