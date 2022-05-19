@@ -58,18 +58,22 @@ Pushkar is based in San Francisco Bay Area!
 * [ItOpsTimes: Securing Kubernetes with STRIDE, Nov. 2019](https://www.itopstimes.com/itsec/kubecon-securing-kubernetes-with-stride/)
 
 ## Publications
-* [The Kubernetes Book, 2019-Present](https://www.amazon.com/dp/B09QFM8H6T), both security chapters
+
+#### [The Kubernetes Book, 2019-Present](https://www.amazon.com/dp/B09QFM8H6T)
+
+  * Wrote both security chapters
   * [11 Google Scholar Citations](https://scholar.google.com/scholar?cites=5033671955994310341&as_sdt=2005&sciodt=0,5&hl=en) 
-* Kubernetes Blog posts:
+
+#### [Kubernetes Blogs](https://kubernetes.io/search/?q=pushkar%20joglekar)
   * [A Closer Look at NSA/CISA Kubernetes Hardening Guidance, Oct. 2021](https://kubernetes.io/blog/2021/10/05/nsa-cisa-kubernetes-hardening-guidance/)
     * Cited by [Updated: NSA/CISA Kubernetes Hardening Guidance v1.1](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/0/CTR_Kubernetes_Hardening_Guidance_1.1_20220315.PDF#page=48) 
   * [Cloud Native Security for your Clusters, Nov. 2020](https://kubernetes.io/blog/2020/11/18/cloud-native-security-for-your-clusters)
 
-* [Cloud Native Security Whitepaper](https://github.com/cncf/sig-security/blob/master/security-whitepaper)
+#### [Cloud Native Security Whitepaper](https://github.com/cncf/sig-security/blob/master/security-whitepaper)
    * [Version 1.0, Nov. 2020](https://github.com/cncf/sig-security/blob/master/security-whitepaper/v1/CNCF_cloud-native-security-whitepaper-Nov2020.pdf)
      * Citations: 
-       * [ACM Citation](https://dl.acm.org/doi/abs/10.1145/3493649.3493655)
-       * [IEEE Citation](https://ieeexplore.ieee.org/abstract/document/9647599)
+       * [ACM](https://dl.acm.org/doi/abs/10.1145/3493649.3493655)
+       * [IEEE](https://ieeexplore.ieee.org/abstract/document/9647599)
      * Media Coverage:
        * [Virtualization Review](https://virtualizationreview.com/articles/2021/10/12/cncf-security-surveys.aspx)
      * Translations:
@@ -80,23 +84,21 @@ Pushkar is based in San Francisco Bay Area!
        * [Container Journal](https://containerjournal.com/kubecon-cnc-eu-2022/announcing-the-refreshed-cloud-native-security-whitepaper/)
        * [DevOps.com](https://devops.com/announcing-the-refreshed-cloud-native-security-whitepaper/) 
 
-* [Cloud Native Security Lexicon, Aug. 2020](https://github.com/cncf/tag-security/blob/main/security-lexicon/cloud-native-security-lexicon.md)
-
 ## Speaking engagements
 
-* [Thank God Its Kubernetes](https://www.youtube.com/playlist?list=PL7bmigfV0EqQzxcNpmcdTJ9eFRPBe-iZa)
+#### [Thank God Its Kubernetes](https://www.youtube.com/playlist?list=PL7bmigfV0EqQzxcNpmcdTJ9eFRPBe-iZa)
   * [Episode 187 "Kubernetes Release - Image Signing MVP", March 2022](https://www.youtube.com/watch?v=H1D0fk9sZ8I)
   * [Episode 174 "Verifying Signed Images with Connaisseur", Nov. 2021](https://youtu.be/LFAmi39CBb4)
   * [Episode 171 "Pod Security Problems", Oct. 2021](https://youtu.be/Vk1ARLbAcVc)
   
-* [KubeCon + CloudNativeCon](https://www.cncf.io/kubecon-cloudnativecon-events/) 
+#### [KubeCon + CloudNativeCon](https://www.cncf.io/kubecon-cloudnativecon-events/) 
   * [Keeping Up with the CVEs: How to Find a Needle in a Haystack?, Oct 2021](https://kccncna2021.sched.com/event/lV48)
     * [Youtube Recording](https://youtu.be/2cvWmY4xvLU)   
   * [Security Through Transparency: Kubernetes SIG Security Update, Oct 2021](https://kccncna2021.sched.com/event/lV7Q)
     * [Youtube Recording](https://youtu.be/O5Wy7zSigOU) 
   * [Security Beyond Buzzwords: How to Secure Kubernetes with Empathy?, Nov 2019](https://kccncna19.sched.com/event/Uad6/security-beyond-buzzwords-how-to-secure-kubernetes-with-empathy-pushkar-joglekar-visa)
 
-* [Kubernetes Security Bangalore Meetup, July 2021](https://www.meetup.com/kubernetes-openshift-India-Meetup/)
+#### [Kubernetes Security Bangalore Meetup, July 2021](https://www.meetup.com/kubernetes-openshift-India-Meetup/)
   * [Youtube Recording](https://youtu.be/W6YQNuJsFqU?t=2491)
   * [Meetup Event](https://www.meetup.com/kubernetes-openshift-India-Meetup/events/279192256)
   * [Slides](https://github.com/PushkarJ/pushkarj.github.io/blob/master/talks/k8s-meetup-blr-2021-htmfawoyst.pdf)
