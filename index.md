@@ -3,6 +3,23 @@ layout: default
 title: About
 ---
 
+# Index
+
+
+
+* [Current Affiliations](#current-affiliations)
+
+* [Patents](#patents)
+
+* [Awards](#awards)
+
+* [Media Coverage](#media-coverage)
+
+* [Publications](#publications)
+
+* [Speaking engagements](#speaking-engagements)
+
+
 # About
 
 Pushkar Joglekar is a _Sr. Security Engineer_ currently working at [VMware Tanzu](https://tanzu.vmware.com/tanzu/) with the goal to "Make _Kubernetes_ Secure For All". He wears multiple hats in the community as a:
