@@ -109,7 +109,8 @@ Pushkar is based in San Francisco Bay Area!
   * [Version 2.0, May 2022](https://github.com/cncf/tag-security/blob/main/security-whitepaper/v2/CNCF_cloud-native-security-whitepaper-May2022-v2.pdf)
       * Media Coverage:
           * [Container Journal](https://containerjournal.com/kubecon-cnc-eu-2022/announcing-the-refreshed-cloud-native-security-whitepaper/)
-          * [DevOps.com](https://devops.com/announcing-the-refreshed-cloud-native-security-whitepaper/) 
+          * [DevOps.com](https://devops.com/announcing-the-refreshed-cloud-native-security-whitepaper/)
+          * [RCR Wireless News](https://www.rcrwireless.com/20220519/telco-cloud/simplifying-kubernetes-for-telcos-and-cloud-app-developers) 
 
 ## Speaking Engagements
 
