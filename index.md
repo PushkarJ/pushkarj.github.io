@@ -23,7 +23,7 @@ Pushkar is based in San Francisco Bay Area!
 [Awards](#awards) |
 [Media Coverage](#media-coverage) |
 [Publications](#publications) |
-[Speaking engagements](#speaking-engagements)
+[Speaking Engagements](#speaking-engagements)
 
 
 ## Current Affiliations
@@ -110,7 +110,7 @@ Pushkar is based in San Francisco Bay Area!
           * [Container Journal](https://containerjournal.com/kubecon-cnc-eu-2022/announcing-the-refreshed-cloud-native-security-whitepaper/)
           * [DevOps.com](https://devops.com/announcing-the-refreshed-cloud-native-security-whitepaper/) 
 
-## Speaking engagements
+## Speaking Engagements
 
 ### [Thank God Its Kubernetes](https://www.youtube.com/playlist?list=PL7bmigfV0EqQzxcNpmcdTJ9eFRPBe-iZa)
   * [Episode 187 "Kubernetes Release - Image Signing MVP", March 2022](https://www.youtube.com/watch?v=H1D0fk9sZ8I)
