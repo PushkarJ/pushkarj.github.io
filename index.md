@@ -38,7 +38,7 @@ Pushkar is based in San Francisco Bay Area!
 ### [Kubernetes](https://kubernetes.io/)
   * [Among Top 200 contributors worldwide](https://k8s.devstats.cncf.io/d/13/developer-activity-counts-by-repository-group?orgId=1&var-period_name=Last%20year&var-metric=contributions&var-repogroup_name=Kubernetes&var-repo_name=kubernetes%2Fkubernetes&var-country_name=All) in the last 12 months
   * [SIG (Special Interest Group) Security](https://github.com/kubernetes/community/tree/master/sig-security) 
-    * [Tooling Sub-Project Lead](https://github.com/kubernetes/community/tree/master/sig-security)
+      * [Tooling Sub-Project Lead](https://github.com/kubernetes/community/tree/master/sig-security)
   * [Associate Security Response Committee Member](https://github.com/kubernetes/committee-security-response#security-response-committee-src)
 
 ### [PCI (Payment Card Industry)](https://www.pcisecuritystandards.org/) 
