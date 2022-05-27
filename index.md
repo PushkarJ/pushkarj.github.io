@@ -16,15 +16,6 @@ In his free time, he loves taking photos, watching cricket and firmly believes t
 
 Pushkar is based in San Francisco Bay Area!
 
-# Index
-
-[Current Affiliations](#current-affiliations) |
-[Patents](#patents) |
-[Awards](#awards) |
-[Media Coverage](#media-coverage) |
-[Publications](#publications) |
-[Speaking Engagements](#speaking-engagements)
-
 
 ## Current Affiliations
 
