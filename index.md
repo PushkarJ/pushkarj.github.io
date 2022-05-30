@@ -111,6 +111,7 @@ Pushkar is based in San Francisco Bay Area!
   * [Auto-refreshing Official CVE Feed](https://github.com/kubernetes/enhancements/issues/3203)
 
 ### [Cloud Native Security Whitepaper](https://github.com/cncf/sig-security/blob/master/security-whitepaper)
+
   * [Version 1.0, Nov. 2020](https://github.com/cncf/sig-security/blob/master/security-whitepaper/v1/CNCF_cloud-native-security-whitepaper-Nov2020.pdf)
       * Citations: 
           * [ACM](https://dl.acm.org/doi/abs/10.1145/3493649.3493655)
