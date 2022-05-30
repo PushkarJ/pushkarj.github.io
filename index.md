@@ -5,7 +5,7 @@ title: About
 
 # About
 
-Pushkar Joglekar is a _Sr. Security Engineer_ currently working at [VMware Tanzu](https://tanzu.vmware.com/tanzu/) with the goal to "Make _Kubernetes_ Secure For All". He wears multiple hats in the community as a:
+Pushkar Joglekar is a _Sr. Security Engineer_ currently working at [VMware Tanzu](#vmware-tanzu) with the goal to "Make _Kubernetes_ Secure For All". He wears multiple hats in the community as a:
 - [CNCF Security - TAG](#cncf-cloud-native-computing-foundation) Tech Lead
 - [Associate Kubernetes Security Response Committee](https://github.com/kubernetes/committee-security-response#security-response-committee-src) Member 
 - [Kubernetes SIG Security Tooling](#kubernetes) Sub-Project Lead
@@ -18,6 +18,10 @@ Pushkar is based in San Francisco Bay Area!
 
 
 ## Current Affiliations
+
+### [VMware Tanzu](https://tanzu.vmware.com/)
+  * Sr. Security Engineer - Kubernetes Upstream (March 2021 - Present)
+  * Working across Product, Compliance, and Engineering teams to move security *left* and *up* by balancing customer escalations with opensource contributions that enhance security posture of downstream products
 
 ### [CNCF (Cloud Native Computing Foundation)](https://www.cncf.io/)
   * [Among Top 50 contributors worldwide](https://all.devstats.cncf.io/d/9/developer-activity-counts-by-repository-group-table?orgId=1&var-period_name=Last%20year&var-metric=contributions&var-repogroup_name=CNCF&var-country_name=All) in the last 12 months
@@ -35,14 +39,33 @@ Pushkar is based in San Francisco Bay Area!
 ### [PCI (Payment Card Industry)](https://www.pcisecuritystandards.org/) 
   * [SIG (Special Interest Group): Best Practices for Container Orchestration](https://blog.pcisecuritystandards.org/pci-ssc-announces-2021-special-interest-group-election-results)
 
+## Past Affiliations
+
+### [Visa Inc.](https://visa.com)
+  * Sr. Cybersecurity Engineer - Security Architecture & Engineering (June 2015 - March 2021)
+  * Dual role of architect and engineer lead for securing containers, secrets and devops:
+  * Led a team of 3-4 engineers building award winning container security product
+  * Designed _secure by default_ container platforms processing millions of transactions per day
+  * Evangelized security topics via online/in-person speaking engagements from executives to developers
+  * Deployed Secrets Mgmt. system with 99.999% availability serving 100+ apps
+
+### [Carnegie Mellon University](https://www.cmu.edu/)
+  * Graduate Degree (MS) in Information Technology (Aug 2013 - May 2015) - [Information Networking Institute](https://www.cmu.edu/ini/)
+  * Graduate Teaching Assistant (Aug 2014 - May 2015)
+
+### [ACI Worldwide Inc.](https://www.aciworldwide.com/)
+  * Associate Software Engineer - Payments (June 2011 - July 2013)
+  * Worked on Development, Testing and Documentation for Mobile and Retail Payments applications
+  * Mentored 4 new graduate engineers to set them up for success in a month from joining the team
+
 ## Patents
 * [(5 Citations)](https://patents.google.com/patent/WO2020060537A1#patentCitations) [Microservice adaptive security hardening](https://patents.google.com/patent/WO2020060537A1)
-* [(11 Citations)](https://patents.google.com/patent/WO2019013771A1#patentCitations) [Systems and Methods for generating behavior profiles for new entities](https://patents.google.com/patent/WO2019013771A1)
-* [(5 Citations)](https://patents.google.com/patent/WO2019213086A1#patentCitations) [Self-learning alerting and anomaly detection in monitoring systems](https://patents.google.com/patent/WO2019213086A1)
+* [(13 Citations)](https://patents.google.com/patent/WO2019013771A1#patentCitations) [Systems and Methods for generating behavior profiles for new entities](https://patents.google.com/patent/WO2019013771A1)
+* [(9 Citations)](https://patents.google.com/patent/WO2019213086A1#patentCitations) [Self-learning alerting and anomaly detection in monitoring systems](https://patents.google.com/patent/WO2019213086A1)
 * [(5 Citations)](https://patents.google.com/patent/WO2019194787A1#patentCitations) [Real-time entity anomaly detection](https://patents.google.com/patent/WO2019194787A1)
 * [(5 Citations)](https://patents.google.com/patent/WO2020005263A1#patentCitations) [Systems and methods to secure api platforms](https://patents.google.com/patent/WO2020005263A1)
-* [(6 Citations)](https://patents.google.com/patent/WO2020040776A1#patentCitations) [Proactive defense of untrustworthy machine learning system](https://patents.google.com/patent/WO2020040776A1)
-* [(5 Citations)](https://patents.google.com/patent/WO2020040777A1#patentCitations) [Model shift prevention through machine learning](https://patents.google.com/patent/WO2020040777A1)
+* [(7 Citations)](https://patents.google.com/patent/WO2020040776A1#patentCitations) [Proactive defense of untrustworthy machine learning system](https://patents.google.com/patent/WO2020040776A1)
+* [(7 Citations)](https://patents.google.com/patent/WO2020040777A1#patentCitations) [Model shift prevention through machine learning](https://patents.google.com/patent/WO2020040777A1)
 * [Systems, Methods, and Computer Program Products for Authorizing a Transaction](https://patents.google.com/patent/US20210065194A1)
 
 ## Awards
@@ -63,7 +86,7 @@ Pushkar is based in San Francisco Bay Area!
 
 ## Publications
 
-### [The Kubernetes Book, 2019-Present](https://www.amazon.com/dp/B09QFM8H6T)
+### [The Kubernetes Book, 2019 - Present](https://www.amazon.com/dp/B09QFM8H6T)
   * Wrote both security chapters
   * [11 Google Scholar Citations](https://scholar.google.com/scholar?cites=5033671955994310341&as_sdt=2005&sciodt=0,5&hl=en) 
 
