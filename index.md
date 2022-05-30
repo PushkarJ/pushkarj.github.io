@@ -101,8 +101,8 @@ Pushkar is based in San Francisco Bay Area!
 #### Official Documentation
   * [Reference: Ports and Protocols](https://kubernetes.io/docs/reference/ports-and-protocols/)
   * Tutorials:
-      * [Apply Pod Security Standards at Cluster Level](https://kubernetes.io/docs/tutorials/security/cluster-level-pss/)
-      * [Apply Pod Security Standards at Namespace Level](https://kubernetes.io/docs/tutorials/security/ns-level-pss/)
+    * [Apply Pod Security Standards at Cluster Level](https://kubernetes.io/docs/tutorials/security/cluster-level-pss/)
+    * [Apply Pod Security Standards at Namespace Level](https://kubernetes.io/docs/tutorials/security/ns-level-pss/)
   * [Task: Verifying Signed Images](https://kubernetes.io/docs/tasks/administer-cluster/verify-signed-images/)
 
 #### Project Enhancements
@@ -114,18 +114,18 @@ Pushkar is based in San Francisco Bay Area!
 
   * [Version 1.0, Nov. 2020](https://github.com/cncf/sig-security/blob/master/security-whitepaper/v1/CNCF_cloud-native-security-whitepaper-Nov2020.pdf)
     * Citations: 
-        * [ACM](https://dl.acm.org/doi/abs/10.1145/3493649.3493655)
-        * [IEEE](https://ieeexplore.ieee.org/abstract/document/9647599)
+      * [ACM](https://dl.acm.org/doi/abs/10.1145/3493649.3493655)
+      * [IEEE](https://ieeexplore.ieee.org/abstract/document/9647599)
     * Media Coverage:
-        * [Virtualization Review](https://virtualizationreview.com/articles/2021/10/12/cncf-security-surveys.aspx)
+      * [Virtualization Review](https://virtualizationreview.com/articles/2021/10/12/cncf-security-surveys.aspx)
     * Translations:
-        * [Chinese](https://github.com/cncf/tag-security/blob/main/security-whitepaper/v1/cloud-native-security-whitepaper-simplified-chinese.md)
-        * [Portugese](https://github.com/cncf/tag-security/blob/main/security-whitepaper/v1/cloud-native-security-whitepaper-brazilian-portugese.md)
+      * [Chinese](https://github.com/cncf/tag-security/blob/main/security-whitepaper/v1/cloud-native-security-whitepaper-simplified-chinese.md)
+      * [Portugese](https://github.com/cncf/tag-security/blob/main/security-whitepaper/v1/cloud-native-security-whitepaper-brazilian-portugese.md)
   * [Version 2.0, May 2022](https://github.com/cncf/tag-security/blob/main/security-whitepaper/v2/CNCF_cloud-native-security-whitepaper-May2022-v2.pdf)
       * Media Coverage:
-          * [Container Journal](https://containerjournal.com/kubecon-cnc-eu-2022/announcing-the-refreshed-cloud-native-security-whitepaper/)
-          * [DevOps.com](https://devops.com/announcing-the-refreshed-cloud-native-security-whitepaper/)
-          * [RCR Wireless News](https://www.rcrwireless.com/20220519/telco-cloud/simplifying-kubernetes-for-telcos-and-cloud-app-developers) 
+        * [Container Journal](https://containerjournal.com/kubecon-cnc-eu-2022/announcing-the-refreshed-cloud-native-security-whitepaper/)
+        * [DevOps.com](https://devops.com/announcing-the-refreshed-cloud-native-security-whitepaper/)
+        * [RCR Wireless News](https://www.rcrwireless.com/20220519/telco-cloud/simplifying-kubernetes-for-telcos-and-cloud-app-developers) 
 
 ## Speaking Engagements
 
