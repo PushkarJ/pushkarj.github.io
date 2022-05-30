@@ -129,7 +129,7 @@ Pushkar is based in San Francisco Bay Area!
 
 ## Speaking Engagements
 
-### [Thank God Its Kubernetes](https://www.youtube.com/playlist?list=PL7bmigfV0EqQzxcNpmcdTJ9eFRPBe-iZa)
+### [Thank God It's Kubernetes](https://www.youtube.com/playlist?list=PL7bmigfV0EqQzxcNpmcdTJ9eFRPBe-iZa)
   * [Episode 187 "Kubernetes Release - Image Signing MVP", March 2022](https://www.youtube.com/watch?v=H1D0fk9sZ8I)
   * [Episode 174 "Verifying Signed Images with Connaisseur", Nov. 2021](https://youtu.be/LFAmi39CBb4)
   * [Episode 171 "Pod Security Problems", Oct. 2021](https://youtu.be/Vk1ARLbAcVc)
