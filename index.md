@@ -44,10 +44,10 @@ Pushkar is based in San Francisco Bay Area!
 ### [Visa Inc.](https://visa.com)
   * Sr. Cybersecurity Engineer - Security Architecture & Engineering (June 2015 - March 2021)
   * Dual role of architect and engineer lead for securing containers, secrets and devops:
-  * Led a team of 3-4 engineers building award winning container security product
-  * Designed _secure by default_ container platforms processing millions of transactions per day
-  * Evangelized security topics via online/in-person speaking engagements from executives to developers
-  * Deployed Secrets Mgmt. system with 99.999% availability serving 100+ apps
+    * Led a team of 3-4 engineers building award winning container security product
+    * Designed _secure by default_ container platforms processing millions of transactions per day
+    * Evangelized security topics via online/in-person speaking engagements from executives to developers
+    * Deployed Secrets Mgmt. system with 99.999% availability serving 100+ apps
 
 ### [Carnegie Mellon University](https://www.cmu.edu/)
   * Graduate Degree (MS) in Information Technology (Aug 2013 - May 2015) - [Information Networking Institute](https://www.cmu.edu/ini/)
