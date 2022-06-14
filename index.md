@@ -135,7 +135,7 @@ Pushkar is based in San Francisco Bay Area!
   * [Episode 171 "Pod Security Problems", Oct. 2021](https://youtu.be/Vk1ARLbAcVc)
   
 ### [KubeCon + CloudNativeCon](https://www.cncf.io/kubecon-cloudnativecon-events/)
-  * [We Lift Together: Kubernetes SIG Security Update, Valencia, Spain, EU, May 2022](https://kccnceu2022.sched.com/overview/type/Maintainer+Track/Kubernetes+SIG+Security)
+  * [We Lift Together: Kubernetes SIG Security Update, Valencia, Spain, EU, May 2022](https://kccnceu2022.sched.com/event/ytrn)
     * [Youtube Recording](https://youtu.be/ow2SkmWxLmU)
   * [Keeping Up with the CVEs: How to Find a Needle in a Haystack?, Los Angeles, CA, USA, Oct 2021](https://kccncna2021.sched.com/event/lV48)
     * [Youtube Recording](https://youtu.be/2cvWmY4xvLU)   
