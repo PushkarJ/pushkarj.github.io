@@ -134,12 +134,14 @@ Pushkar is based in San Francisco Bay Area!
   * [Episode 174 "Verifying Signed Images with Connaisseur", Nov. 2021](https://youtu.be/LFAmi39CBb4)
   * [Episode 171 "Pod Security Problems", Oct. 2021](https://youtu.be/Vk1ARLbAcVc)
   
-### [KubeCon + CloudNativeCon](https://www.cncf.io/kubecon-cloudnativecon-events/) 
-  * [Keeping Up with the CVEs: How to Find a Needle in a Haystack?, USA, Oct 2021](https://kccncna2021.sched.com/event/lV48)
+### [KubeCon + CloudNativeCon](https://www.cncf.io/kubecon-cloudnativecon-events/)
+  * [We Lift Together: Kubernetes SIG Security Update, Valencia, Spain, EU, May 2022](https://kccnceu2022.sched.com/overview/type/Maintainer+Track/Kubernetes+SIG+Security)
+    * [Youtube Recording](https://youtu.be/ow2SkmWxLmU)
+  * [Keeping Up with the CVEs: How to Find a Needle in a Haystack?, Los Angeles, CA, USA, Oct 2021](https://kccncna2021.sched.com/event/lV48)
     * [Youtube Recording](https://youtu.be/2cvWmY4xvLU)   
-  * [Security Through Transparency: Kubernetes SIG Security Update, USA, Oct 2021](https://kccncna2021.sched.com/event/lV7Q)
+  * [Security Through Transparency: Kubernetes SIG Security Update, Los Angeles, CA, USA, Oct 2021](https://kccncna2021.sched.com/event/lV7Q)
     * [Youtube Recording](https://youtu.be/O5Wy7zSigOU) 
-  * [Security Beyond Buzzwords: How to Secure Kubernetes with Empathy?, USA, Nov 2019](https://kccncna19.sched.com/event/Uad6/security-beyond-buzzwords-how-to-secure-kubernetes-with-empathy-pushkar-joglekar-visa)
+  * [Security Beyond Buzzwords: How to Secure Kubernetes with Empathy?, Los Angeles, CA, USA Nov 2019](https://kccncna19.sched.com/event/Uad6/security-beyond-buzzwords-how-to-secure-kubernetes-with-empathy-pushkar-joglekar-visa)
 
 ### [Kubernetes Security Bangalore Meetup, July 2021](https://www.meetup.com/kubernetes-openshift-India-Meetup/)
   * [Youtube Recording](https://youtu.be/W6YQNuJsFqU?t=2491)
