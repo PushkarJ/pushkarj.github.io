@@ -5,7 +5,7 @@ title: About
 
 # About
 
-Pushkar Joglekar is a _Sr. Security Engineer_ currently working at [VMware Tanzu](#vmware-tanzu) with the goal to "Make _Kubernetes_ Secure For All". He wears multiple hats in the community as a:
+Pushkar Joglekar is a _Staff Security Engineer_ currently working at [VMware Tanzu](#vmware-tanzu) with the goal to "Make _Kubernetes_ Secure For All". He wears multiple hats in the community as a:
 - [CNCF Security - TAG](#cncf-cloud-native-computing-foundation) Tech Lead
 - [Associate Kubernetes Security Response Committee](https://github.com/kubernetes/committee-security-response#security-response-committee-src) Member 
 - [Kubernetes SIG Security Tooling](#kubernetes) Sub-Project Lead
@@ -20,18 +20,21 @@ Pushkar is based in San Francisco Bay Area!
 ## Current Affiliations
 
 ### [VMware Tanzu](https://tanzu.vmware.com/)
-  * Sr. Security Engineer - Kubernetes Upstream (March 2021 - Present)
+
+  * Staff Security Engineer 1 - Kubernetes Upstream 
   * Working across Product, Compliance, and Engineering teams to move security *left* and *up* by balancing customer escalations with opensource contributions that enhance security posture of downstream products
 
 ### [CNCF (Cloud Native Computing Foundation)](https://www.cncf.io/)
-  * [Among Top 50 contributors worldwide](https://all.devstats.cncf.io/d/9/developer-activity-counts-by-repository-group-table?orgId=1&var-period_name=Last%20year&var-metric=contributions&var-repogroup_name=CNCF&var-country_name=All) in the last 12 months
+
+  * [Among Top 2-3% contributors worldwide since inception](https://all.devstats.cncf.io/d/9/developer-activity-counts-by-repository-group-table?orgId=1&var-period_name=First%20CNCF%20project%20join%20date%20-%20now&var-metric=contributions&var-repogroup_name=CNCF&var-country_name=All)
   * [TAG (Technical Advisory Group) Security Lead](https://lists.cncf.io/g/cncf-toc/topic/result_pushkar_joglekar/88381568)
   * [Program Committee Member](https://www.cncf.io/blog/2021/08/04/inside-the-numbers-the-kubecon-cloudnativecon-selection-process-for-kubecon-cloudnativecon-north-america-2021/)
     * [KubeCon + CloudNativeCon North America 2021](https://www.credly.com/badges/2dc7336e-ad39-4a1c-a6f9-e88012d6d1af/public_url)
     * [Cloud Native SecurityCon Europe 2022](https://events.linuxfoundation.org/cloud-native-securitycon-europe/program/program-committee/)
 
 ### [Kubernetes](https://kubernetes.io/)
-  * [Among Top 200 contributors worldwide](https://all.devstats.cncf.io/d/9/developer-activity-counts-by-repository-group-table?orgId=1&var-period_name=Last%20year&var-metric=contributions&var-repogroup_name=Kubernetes&var-country_name=All) in the last 12 months
+
+  * [Among Top 1-2% contributors worldwide since inception](https://all.devstats.cncf.io/d/9/developer-activity-counts-by-repository-group-table?orgId=1&var-period_name=First%20CNCF%20project%20join%20date%20-%20now&var-metric=contributions&var-repogroup_name=Kubernetes&var-country_name=All)
   * [SIG (Special Interest Group) Security](https://github.com/kubernetes/community/tree/master/sig-security) 
       * [Tooling Sub-Project Lead](https://github.com/kubernetes/community/tree/master/sig-security)
   * [Associate Security Response Committee Member](https://github.com/kubernetes/committee-security-response#security-response-committee-src)
@@ -59,13 +62,13 @@ Pushkar is based in San Francisco Bay Area!
   * Mentored 4 new graduate engineers to set them up for success in a month from joining the team
 
 ## Patents
-* [(5 Citations)](https://patents.google.com/patent/WO2020060537A1#patentCitations) [Microservice adaptive security hardening](https://patents.google.com/patent/WO2020060537A1)
-* [(13 Citations)](https://patents.google.com/patent/WO2019013771A1#patentCitations) [Systems and Methods for generating behavior profiles for new entities](https://patents.google.com/patent/WO2019013771A1)
-* [(9 Citations)](https://patents.google.com/patent/WO2019213086A1#patentCitations) [Self-learning alerting and anomaly detection in monitoring systems](https://patents.google.com/patent/WO2019213086A1)
-* [(5 Citations)](https://patents.google.com/patent/WO2019194787A1#patentCitations) [Real-time entity anomaly detection](https://patents.google.com/patent/WO2019194787A1)
-* [(5 Citations)](https://patents.google.com/patent/WO2020005263A1#patentCitations) [Systems and methods to secure api platforms](https://patents.google.com/patent/WO2020005263A1)
-* [(7 Citations)](https://patents.google.com/patent/WO2020040776A1#patentCitations) [Proactive defense of untrustworthy machine learning system](https://patents.google.com/patent/WO2020040776A1)
-* [(7 Citations)](https://patents.google.com/patent/WO2020040777A1#patentCitations) [Model shift prevention through machine learning](https://patents.google.com/patent/WO2020040777A1)
+* [(1 Citation)](https://patents.google.com/patent/WO2020060537A1#citedBy) [Microservice adaptive security hardening](https://patents.google.com/patent/WO2020060537A1)
+* [(1 Citation)](https://patents.google.com/patent/WO2019013771A1#citedBy) [Systems and Methods for generating behavior profiles for new entities](https://patents.google.com/patent/WO2019013771A1)
+* [(4 Citations)](https://patents.google.com/patent/WO2019213086A1#citedBy) [Self-learning alerting and anomaly detection in monitoring systems](https://patents.google.com/patent/WO2019213086A1)
+* [(1 Citation)](https://patents.google.com/patent/WO2019194787A1#citedBy) [Real-time entity anomaly detection](https://patents.google.com/patent/WO2019194787A1)
+* [(2 Citations)](https://patents.google.com/patent/WO2020040777A1#citedBy) [Model shift prevention through machine learning](https://patents.google.com/patent/WO2020040777A1)
+* [Systems and methods to secure api platforms](https://patents.google.com/patent/WO2020005263A1)
+* [Proactive defense of untrustworthy machine learning system](https://patents.google.com/patent/WO2020040776A1)
 * [Systems, Methods, and Computer Program Products for Authorizing a Transaction](https://patents.google.com/patent/US20210065194A1)
 
 ## Awards
@@ -87,8 +90,9 @@ Pushkar is based in San Francisco Bay Area!
 ## Publications
 
 ### [The Kubernetes Book, 2019 - Present](https://www.amazon.com/dp/B09QFM8H6T)
+  * Amazon Book Rating: 4.5/5 (800+ reviews)
   * Wrote both security chapters
-  * [11 Google Scholar Citations](https://scholar.google.com/scholar?cites=5033671955994310341&as_sdt=2005&sciodt=0,5&hl=en) 
+  * [13 Google Scholar Citations](https://scholar.google.com/scholar?cites=5033671955994310341&as_sdt=2005&sciodt=0,5&hl=en) 
 
 ### Kubernetes Project Contributions
 
