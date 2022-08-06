@@ -116,6 +116,11 @@ Pushkar is based in San Francisco Bay Area!
 
 ### [Cloud Native Security Whitepaper](https://github.com/cncf/sig-security/blob/master/security-whitepaper)
 
+  * [Version 2.0, May 2022](https://github.com/cncf/tag-security/blob/main/security-whitepaper/v2/CNCF_cloud-native-security-whitepaper-May2022-v2.pdf)
+      * Media Coverage:
+        * [Container Journal](https://containerjournal.com/kubecon-cnc-eu-2022/announcing-the-refreshed-cloud-native-security-whitepaper/)
+        * [DevOps.com](https://devops.com/announcing-the-refreshed-cloud-native-security-whitepaper/)
+        * [RCR Wireless News](https://www.rcrwireless.com/20220519/telco-cloud/simplifying-kubernetes-for-telcos-and-cloud-app-developers) 
   * [Version 1.0, Nov. 2020](https://github.com/cncf/sig-security/blob/master/security-whitepaper/v1/CNCF_cloud-native-security-whitepaper-Nov2020.pdf)
     * Citations: 
       * [ACM](https://dl.acm.org/doi/abs/10.1145/3493649.3493655)
@@ -125,11 +130,6 @@ Pushkar is based in San Francisco Bay Area!
     * Translations:
       * [Chinese](https://github.com/cncf/tag-security/blob/main/security-whitepaper/v1/cloud-native-security-whitepaper-simplified-chinese.md)
       * [Portugese](https://github.com/cncf/tag-security/blob/main/security-whitepaper/v1/cloud-native-security-whitepaper-brazilian-portugese.md)
-  * [Version 2.0, May 2022](https://github.com/cncf/tag-security/blob/main/security-whitepaper/v2/CNCF_cloud-native-security-whitepaper-May2022-v2.pdf)
-      * Media Coverage:
-        * [Container Journal](https://containerjournal.com/kubecon-cnc-eu-2022/announcing-the-refreshed-cloud-native-security-whitepaper/)
-        * [DevOps.com](https://devops.com/announcing-the-refreshed-cloud-native-security-whitepaper/)
-        * [RCR Wireless News](https://www.rcrwireless.com/20220519/telco-cloud/simplifying-kubernetes-for-telcos-and-cloud-app-developers) 
 
 ## Speaking Engagements
 
