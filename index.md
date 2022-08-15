@@ -30,7 +30,7 @@ Pushkar is based in San Francisco Bay Area!
   * [TAG (Technical Advisory Group) Security Lead](https://lists.cncf.io/g/cncf-toc/topic/result_pushkar_joglekar/88381568)
   * [Program Committee Member](https://www.cncf.io/blog/2021/08/04/inside-the-numbers-the-kubecon-cloudnativecon-selection-process-for-kubecon-cloudnativecon-north-america-2021/)
     * [Cloud Native SecurityCon Europe 2022](https://www.credly.com/badges/c959b3ac-11b4-485f-99ab-f7e968e833f9/public_url)
-    * [KubeCon + CloudNativeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/): 
+    * [KubeCon + CloudNativeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) 
         * [2022](https://www.credly.com/badges/75d8763c-c50b-4e19-abe7-5efd237c1fa4/public_url)
         * [2021](https://www.credly.com/badges/2dc7336e-ad39-4a1c-a6f9-e88012d6d1af/public_url) 
   
