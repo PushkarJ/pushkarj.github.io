@@ -30,9 +30,10 @@ Pushkar is based in San Francisco Bay Area!
   * [TAG (Technical Advisory Group) Security Lead](https://lists.cncf.io/g/cncf-toc/topic/result_pushkar_joglekar/88381568)
   * [Program Committee Member](https://www.cncf.io/blog/2021/08/04/inside-the-numbers-the-kubecon-cloudnativecon-selection-process-for-kubecon-cloudnativecon-north-america-2021/)
     * [Cloud Native SecurityCon Europe 2022](https://www.credly.com/badges/c959b3ac-11b4-485f-99ab-f7e968e833f9/public_url)
-    * [KubeCon + CloudNativeCon North America 2021](https://www.credly.com/badges/2dc7336e-ad39-4a1c-a6f9-e88012d6d1af/public_url)
-    * [KubeCon + CloudNativeCon North America 2022](https://www.credly.com/badges/75d8763c-c50b-4e19-abe7-5efd237c1fa4/public_url)
-
+    * [KubeCon + CloudNativeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/): 
+        * [2022](https://www.credly.com/badges/75d8763c-c50b-4e19-abe7-5efd237c1fa4/public_url)
+        * [2021](https://www.credly.com/badges/2dc7336e-ad39-4a1c-a6f9-e88012d6d1af/public_url) 
+  
 ### [Kubernetes](https://kubernetes.io/)
 
   * [Among Top 1-2% contributors worldwide since inception](https://all.devstats.cncf.io/d/9/developer-activity-counts-by-repository-group-table?orgId=1&var-period_name=First%20CNCF%20project%20join%20date%20-%20now&var-metric=contributions&var-repogroup_name=Kubernetes&var-country_name=All)
@@ -93,7 +94,7 @@ Pushkar is based in San Francisco Bay Area!
 ### [The Kubernetes Book, 2019 - Present](https://www.amazon.com/dp/B09QFM8H6T)
   * Amazon Book Rating: 4.5/5 (800+ reviews)
   * Wrote both security chapters
-  * [13 Google Scholar Citations](https://scholar.google.com/scholar?cites=5033671955994310341&as_sdt=2005&sciodt=0,5&hl=en) 
+  * [14 Google Scholar Citations](https://scholar.google.com/scholar?cites=5033671955994310341&as_sdt=2005&sciodt=0,5&hl=en) 
 
 ### Kubernetes Project Contributions
 
@@ -123,6 +124,7 @@ Pushkar is based in San Francisco Bay Area!
         * [DevOps.com](https://devops.com/announcing-the-refreshed-cloud-native-security-whitepaper/)
         * [RCR Wireless News](https://www.rcrwireless.com/20220519/telco-cloud/simplifying-kubernetes-for-telcos-and-cloud-app-developers) 
   * [Version 1.0, Nov. 2020](https://github.com/cncf/sig-security/blob/master/security-whitepaper/v1/CNCF_cloud-native-security-whitepaper-Nov2020.pdf)
+    * [Audio version](https://soundcloud.com/user-769472014/sets/cncf-tag-security-cloud-native-security-whitepaper-version-v1)
     * Citations: 
       * [ACM](https://dl.acm.org/doi/abs/10.1145/3493649.3493655)
       * [IEEE](https://ieeexplore.ieee.org/abstract/document/9647599)
@@ -140,6 +142,11 @@ Pushkar is based in San Francisco Bay Area!
   * [Episode 171 "Pod Security Problems", Oct. 2021](https://youtu.be/Vk1ARLbAcVc)
   
 ### [KubeCon + CloudNativeCon](https://www.cncf.io/kubecon-cloudnativecon-events/)
+
+_Acceptance rate of 12-16% for each event_
+
+  * [A Raccoon and a Group of Turtles Secure Clusters Together!, Detroit, Michigan, USA, Oct 2022](https://kccncna2022.sched.com/event/182HO)
+  * [Tutorial: Reducing the Sticker Price of Kubernetes Security, Detroit, Michigan, USA, Oct 2022](https://kccncna2022.sched.com/event/182K6)
   * [We Lift Together: Kubernetes SIG Security Update, Valencia, Spain, EU, May 2022](https://kccnceu2022.sched.com/event/ytrn)
     * [Youtube Recording](https://youtu.be/ow2SkmWxLmU)
   * [Keeping Up with the CVEs: How to Find a Needle in a Haystack?, Los Angeles, CA, USA, Oct 2021](https://kccncna2021.sched.com/event/lV48)
