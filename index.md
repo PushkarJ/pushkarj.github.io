@@ -145,24 +145,24 @@ Pushkar is based in San Francisco Bay Area!
 
   * [North America 2022](https://kccncna2022.sched.com/?iframe=no)
     * Acceptance rate: [11% , 166 / 1526 submissions](https://www.cncf.io/blog/2022/08/03/inside-the-numbers-the-kubecon-cloudnativecon-selection-process-for-north-america-2022/)
-    * Detroit, Michigan, USA, Oct 2022
+    * Detroit, Michigan, USA, Oct 24-28
       * [A Raccoon and a Group of Turtles Secure Clusters Together!](https://kccncna2022.sched.com/event/182HO) 
       * [Tutorial: Reducing the Sticker Price of Kubernetes Security](https://kccncna2022.sched.com/event/182K6)
   * [Europe 2022](https://kccnceu2022.sched.com/?iframe=no)
     * Acceptance rate [12% , 148 / 1187 submissions](https://www.cncf.io/blog/2022/03/09/inside-the-numbers-the-kubecon-cloudnativecon-selection-process-for-europe-2022/)
-    * Valencia, Spain, May 2022
+    * Valencia, Spain, May 16-20
       * [We Lift Together: Kubernetes SIG Security Update](https://kccnceu2022.sched.com/event/ytrn)
         * [Youtube Recording](https://youtu.be/ow2SkmWxLmU)
   * [North America 2021](https://kccncna2021.sched.com/?iframe=no)
     * Acceptance rate: [14%, 139 / 976 submissions](https://www.cncf.io/blog/2021/08/04/inside-the-numbers-the-kubecon-cloudnativecon-selection-process-for-kubecon-cloudnativecon-north-america-2021/)
-    * Los Angeles, CA, USA, Oct 2021
+    * Los Angeles, CA, USA, Oct 11-15
       * [Keeping Up with the CVEs: How to Find a Needle in a Haystack?](https://kccncna2021.sched.com/event/lV48) 
         * [Youtube Recording](https://youtu.be/2cvWmY4xvLU)   
       * [Security Through Transparency: Kubernetes SIG Security Update, Los Angeles, CA, USA, Oct 2021](https://kccncna2021.sched.com/event/lV7Q)
         * [Youtube Recording](https://youtu.be/O5Wy7zSigOU) 
   * [North America 2019](https://kccncna19.sched.com/?iframe=no)
     * Acceptance rate: [12% , 211 / 1800 submissions](https://twitter.com/dankohn1/status/1169048076985819136)
-    * San Diego, CA, USA Nov 2019
+    * San Diego, CA, USA, Nov 15-21
       * [Security Beyond Buzzwords: How to Secure Kubernetes with Empathy?](https://kccncna19.sched.com/event/Uad6/security-beyond-buzzwords-how-to-secure-kubernetes-with-empathy-pushkar-joglekar-visa)
 
 ### [Kubernetes Security Bangalore Meetup, July 2021](https://www.meetup.com/kubernetes-openshift-India-Meetup/)
