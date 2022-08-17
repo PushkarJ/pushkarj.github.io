@@ -79,16 +79,6 @@ Pushkar is based in San Francisco Bay Area!
 * [CSO50 2019: Next Generation Security Product Award](https://usa.visa.com/visa-everywhere/blog/bdp/2019/11/14/safety-in-numbers-1573775010350.html)
 * [CMU INI 2015: Outstanding Student Service Award for Teaching Assistant](https://www.cmu.edu/ini/news/2015/awards.html)
 
-## Media Coverage
-
-* [CNCF Blog: Announcing the Refreshed Cloud Native Security Whitepaper, May 2022](https://www.cncf.io/blog/2022/05/18/announcing-the-refreshed-cloud-native-security-whitepaper)
-* [How to become a Cloud Native Security Engineer: Cloud Security Podcast, April 2022](https://cloudsecuritypodcast.tv/listen-to-the-episodes/how-to-become-a-cloud-native-security-engineer/)
-* [VMware Open Source Blog: Upstream: Jump on In, the Water’s Fine!, Dec. 2021](https://blogs.vmware.com/opensource/2021/12/09/upstream-jump-on-in-the-waters-fine/)
-* [Skedler: Navigating the messy world of (too many) CVEs, Nov. 2021](https://www.skedler.com/blog/common-vulnerabilities-and-exposures)
-* [Storychief: Catch up with Security SIG from KubeCon, Oct. 2021](https://solutions.storychief.io/catch-up-with-the-security-sig-from-kubecon)
-* [CSOOnline: How Visa Built its Own Container Security Solution, March 2020](https://www.csoonline.com/article/3529974/how-visa-built-its-own-container-security-solution.html)
-* [ItOpsTimes: Securing Kubernetes with STRIDE, Nov. 2019](https://www.itopstimes.com/itsec/kubecon-securing-kubernetes-with-stride/)
-
 ## Publications
 
 ### [The Kubernetes Book, 2019 - Present](https://www.amazon.com/dp/B09QFM8H6T)
@@ -134,6 +124,16 @@ Pushkar is based in San Francisco Bay Area!
       * [Chinese](https://github.com/cncf/tag-security/blob/main/security-whitepaper/v1/cloud-native-security-whitepaper-simplified-chinese.md)
       * [Portugese](https://github.com/cncf/tag-security/blob/main/security-whitepaper/v1/cloud-native-security-whitepaper-brazilian-portugese.md)
 
+## Media Coverage
+
+* [CNCF Blog: Announcing the Refreshed Cloud Native Security Whitepaper, May 2022](https://www.cncf.io/blog/2022/05/18/announcing-the-refreshed-cloud-native-security-whitepaper)
+* [How to become a Cloud Native Security Engineer: Cloud Security Podcast, April 2022](https://cloudsecuritypodcast.tv/listen-to-the-episodes/how-to-become-a-cloud-native-security-engineer/)
+* [VMware Open Source Blog: Upstream: Jump on In, the Water’s Fine!, Dec. 2021](https://blogs.vmware.com/opensource/2021/12/09/upstream-jump-on-in-the-waters-fine/)
+* [Skedler: Navigating the messy world of (too many) CVEs, Nov. 2021](https://www.skedler.com/blog/common-vulnerabilities-and-exposures)
+* [Storychief: Catch up with Security SIG from KubeCon, Oct. 2021](https://solutions.storychief.io/catch-up-with-the-security-sig-from-kubecon)
+* [CSOOnline: How Visa Built its Own Container Security Solution, March 2020](https://www.csoonline.com/article/3529974/how-visa-built-its-own-container-security-solution.html)
+* [ItOpsTimes: Securing Kubernetes with STRIDE, Nov. 2019](https://www.itopstimes.com/itsec/kubecon-securing-kubernetes-with-stride/)
+
 ## Speaking Engagements
 
 ### [Thank God It's Kubernetes](https://www.youtube.com/playlist?list=PL7bmigfV0EqQzxcNpmcdTJ9eFRPBe-iZa)
@@ -143,17 +143,27 @@ Pushkar is based in San Francisco Bay Area!
   
 ### [KubeCon + CloudNativeCon](https://www.cncf.io/kubecon-cloudnativecon-events/)
 
-_Acceptance rate of 12-16% for each event_
-
-  * [A Raccoon and a Group of Turtles Secure Clusters Together!, Detroit, Michigan, USA, Oct 2022](https://kccncna2022.sched.com/event/182HO)
-  * [Tutorial: Reducing the Sticker Price of Kubernetes Security, Detroit, Michigan, USA, Oct 2022](https://kccncna2022.sched.com/event/182K6)
-  * [We Lift Together: Kubernetes SIG Security Update, Valencia, Spain, EU, May 2022](https://kccnceu2022.sched.com/event/ytrn)
-    * [Youtube Recording](https://youtu.be/ow2SkmWxLmU)
-  * [Keeping Up with the CVEs: How to Find a Needle in a Haystack?, Los Angeles, CA, USA, Oct 2021](https://kccncna2021.sched.com/event/lV48)
-    * [Youtube Recording](https://youtu.be/2cvWmY4xvLU)   
-  * [Security Through Transparency: Kubernetes SIG Security Update, Los Angeles, CA, USA, Oct 2021](https://kccncna2021.sched.com/event/lV7Q)
-    * [Youtube Recording](https://youtu.be/O5Wy7zSigOU) 
-  * [Security Beyond Buzzwords: How to Secure Kubernetes with Empathy?, Los Angeles, CA, USA Nov 2019](https://kccncna19.sched.com/event/Uad6/security-beyond-buzzwords-how-to-secure-kubernetes-with-empathy-pushkar-joglekar-visa)
+  * [North America 2022](https://kccncna2022.sched.com/?iframe=no)
+    * Acceptance rate: [11% , 166 / 1526 submissions](https://www.cncf.io/blog/2022/08/03/inside-the-numbers-the-kubecon-cloudnativecon-selection-process-for-north-america-2022/)
+    * Detroit, Michigan, USA, Oct 2022
+      * [A Raccoon and a Group of Turtles Secure Clusters Together!](https://kccncna2022.sched.com/event/182HO) 
+      * [Tutorial: Reducing the Sticker Price of Kubernetes Security](https://kccncna2022.sched.com/event/182K6)
+  * [Europe 2022](https://kccnceu2022.sched.com/?iframe=no)
+    * Acceptance rate [12% , 148 / 1187 submissions](https://www.cncf.io/blog/2022/03/09/inside-the-numbers-the-kubecon-cloudnativecon-selection-process-for-europe-2022/)
+    * Valencia, Spain, May 2022
+      * [We Lift Together: Kubernetes SIG Security Update](https://kccnceu2022.sched.com/event/ytrn)
+        * [Youtube Recording](https://youtu.be/ow2SkmWxLmU)
+  * [North America 2021](https://kccncna2021.sched.com/?iframe=no)
+    * Acceptance rate: [14%, 139 / 976 submissions](https://www.cncf.io/blog/2021/08/04/inside-the-numbers-the-kubecon-cloudnativecon-selection-process-for-kubecon-cloudnativecon-north-america-2021/)
+    * Los Angeles, CA, USA, Oct 2021
+      * [Keeping Up with the CVEs: How to Find a Needle in a Haystack?](https://kccncna2021.sched.com/event/lV48) 
+        * [Youtube Recording](https://youtu.be/2cvWmY4xvLU)   
+      * [Security Through Transparency: Kubernetes SIG Security Update, Los Angeles, CA, USA, Oct 2021](https://kccncna2021.sched.com/event/lV7Q)
+        * [Youtube Recording](https://youtu.be/O5Wy7zSigOU) 
+  * [North America 2019](https://kccncna19.sched.com/?iframe=no)
+    * Acceptance rate: [12% , 211 / 1800 submissions](https://twitter.com/dankohn1/status/1169048076985819136)
+    * San Diego, CA, USA Nov 2019
+      * [Security Beyond Buzzwords: How to Secure Kubernetes with Empathy?](https://kccncna19.sched.com/event/Uad6/security-beyond-buzzwords-how-to-secure-kubernetes-with-empathy-pushkar-joglekar-visa)
 
 ### [Kubernetes Security Bangalore Meetup, July 2021](https://www.meetup.com/kubernetes-openshift-India-Meetup/)
   * [Youtube Recording](https://youtu.be/W6YQNuJsFqU?t=2491)
