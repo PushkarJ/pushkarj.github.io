@@ -154,7 +154,7 @@ Pushkar is based in San Francisco Bay Area!
       * [We Lift Together: Kubernetes SIG Security Update](https://kccnceu2022.sched.com/event/ytrn)
         * [Youtube Recording](https://youtu.be/ow2SkmWxLmU)
   * [North America 2021](https://kccncna2021.sched.com/?iframe=no)
-    * Acceptance rate: [14%, 139 / 976 submissions](https://www.cncf.io/blog/2021/08/04/inside-the-numbers-the-kubecon-cloudnativecon-selection-process-for-kubecon-cloudnativecon-north-america-2021/)
+    * Acceptance rate: [14% , 139 / 976 submissions](https://www.cncf.io/blog/2021/08/04/inside-the-numbers-the-kubecon-cloudnativecon-selection-process-for-kubecon-cloudnativecon-north-america-2021/)
     * Los Angeles, CA, USA, Oct 11-15
       * [Keeping Up with the CVEs: How to Find a Needle in a Haystack?](https://kccncna2021.sched.com/event/lV48) 
         * [Youtube Recording](https://youtu.be/2cvWmY4xvLU)   
