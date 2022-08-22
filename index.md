@@ -64,11 +64,11 @@ Pushkar is based in San Francisco Bay Area!
   * Mentored 4 new graduate engineers to set them up for success in a month from joining the team
 
 ## Patents
-* [(1 Citation)](https://patents.google.com/patent/WO2020060537A1#citedBy) [Microservice adaptive security hardening](https://patents.google.com/patent/WO2020060537A1)
-* [(1 Citation)](https://patents.google.com/patent/WO2019013771A1#citedBy) [Systems and Methods for generating behavior profiles for new entities](https://patents.google.com/patent/WO2019013771A1)
+* [(2 Citation)](https://patents.google.com/patent/WO2020060537A1#citedBy) [Microservice adaptive security hardening](https://patents.google.com/patent/WO2020060537A1)
+* [(3 Citation)](https://patents.google.com/patent/WO2019013771A1#citedBy) [Systems and Methods for generating behavior profiles for new entities](https://patents.google.com/patent/WO2019013771A1)
 * [(4 Citations)](https://patents.google.com/patent/WO2019213086A1#citedBy) [Self-learning alerting and anomaly detection in monitoring systems](https://patents.google.com/patent/WO2019213086A1)
 * [(1 Citation)](https://patents.google.com/patent/WO2019194787A1#citedBy) [Real-time entity anomaly detection](https://patents.google.com/patent/WO2019194787A1)
-* [(2 Citations)](https://patents.google.com/patent/WO2020040777A1#citedBy) [Model shift prevention through machine learning](https://patents.google.com/patent/WO2020040777A1)
+* [(3 Citations)](https://patents.google.com/patent/WO2020040777A1#citedBy) [Model shift prevention through machine learning](https://patents.google.com/patent/WO2020040777A1)
 * [Systems and methods to secure api platforms](https://patents.google.com/patent/WO2020005263A1)
 * [Proactive defense of untrustworthy machine learning system](https://patents.google.com/patent/WO2020040776A1)
 * [Systems, Methods, and Computer Program Products for Authorizing a Transaction](https://patents.google.com/patent/US20210065194A1)
@@ -84,7 +84,7 @@ Pushkar is based in San Francisco Bay Area!
 ### [The Kubernetes Book, 2019 - Present](https://www.amazon.com/dp/B09QFM8H6T)
   * Amazon Book Rating: 4.5/5 (800+ reviews)
   * Wrote both security chapters
-  * [14 Google Scholar Citations](https://scholar.google.com/scholar?cites=5033671955994310341&as_sdt=2005&sciodt=0,5&hl=en) 
+  * [16 Google Scholar Citations](https://scholar.google.com/scholar?cites=5033671955994310341&as_sdt=2005&sciodt=0,5&hl=en) 
 
 ### Kubernetes Project Contributions
 
