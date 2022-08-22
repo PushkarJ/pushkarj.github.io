@@ -69,7 +69,7 @@ Pushkar is based in San Francisco Bay Area!
 * [(4 Citations)](https://patents.google.com/patent/WO2019213086A1#citedBy) [Self-learning alerting and anomaly detection in monitoring systems](https://patents.google.com/patent/WO2019213086A1)
 * [(1 Citation)](https://patents.google.com/patent/WO2019194787A1#citedBy) [Real-time entity anomaly detection](https://patents.google.com/patent/WO2019194787A1)
 * [(3 Citations)](https://patents.google.com/patent/WO2020040777A1#citedBy) [Model shift prevention through machine learning](https://patents.google.com/patent/WO2020040777A1)
-* [Systems and methods to secure api platforms](https://patents.google.com/patent/WO2020005263A1)
+* [2 Citations](https://patents.google.com/patent/WO2020005263A1#citedBy)[Systems and methods to secure api platforms](https://patents.google.com/patent/WO2020005263A1)
 * [Proactive defense of untrustworthy machine learning system](https://patents.google.com/patent/WO2020040776A1)
 * [Systems, Methods, and Computer Program Products for Authorizing a Transaction](https://patents.google.com/patent/US20210065194A1)
 
