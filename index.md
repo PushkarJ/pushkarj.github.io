@@ -67,12 +67,12 @@ Pushkar is based in San Francisco Bay Area!
   * Mentored 4 new graduate engineers to set them up for success in a month from joining the team
 
 ## Patents
-* [(2 Citations)](https://patents.google.com/patent/WO2020060537A1#citedBy) [Microservice adaptive security hardening](https://patents.google.com/patent/WO2020060537A1)
-* [(3 Citations)](https://patents.google.com/patent/WO2019013771A1#citedBy) [Systems and Methods for generating behavior profiles for new entities](https://patents.google.com/patent/WO2019013771A1)
-* [(4 Citations)](https://patents.google.com/patent/WO2019213086A1#citedBy) [Self-learning alerting and anomaly detection in monitoring systems](https://patents.google.com/patent/WO2019213086A1)
-* [(1 Citation)](https://patents.google.com/patent/WO2019194787A1#citedBy) [Real-time entity anomaly detection](https://patents.google.com/patent/WO2019194787A1)
+* [(3 Citations)](https://patents.google.com/patent/WO2020060537A1#citedBy) [Microservice adaptive security hardening](https://patents.google.com/patent/WO2020060537A1)
+* [(2 Citations)](https://patents.google.com/patent/WO2019013771A1#citedBy) [Systems and Methods for generating behavior profiles for new entities](https://patents.google.com/patent/WO2019013771A1)
+* [(5 Citations)](https://patents.google.com/patent/WO2019213086A1#citedBy) [Self-learning alerting and anomaly detection in monitoring systems](https://patents.google.com/patent/WO2019213086A1)
+* [(2 Citation)](https://patents.google.com/patent/WO2019194787A1#citedBy) [Real-time entity anomaly detection](https://patents.google.com/patent/WO2019194787A1)
 * [(3 Citations)](https://patents.google.com/patent/WO2020040777A1#citedBy) [Model shift prevention through machine learning](https://patents.google.com/patent/WO2020040777A1)
-* [(2 Citations)](https://patents.google.com/patent/WO2020005263A1#citedBy) [Systems and methods to secure api platforms](https://patents.google.com/patent/WO2020005263A1)
+* [(8 Citations)](https://patents.google.com/patent/WO2020005263A1#citedBy) [Systems and methods to secure api platforms](https://patents.google.com/patent/WO2020005263A1)
 * [Proactive defense of untrustworthy machine learning system](https://patents.google.com/patent/WO2020040776A1)
 * [Systems, Methods, and Computer Program Products for Authorizing a Transaction](https://patents.google.com/patent/US20210065194A1)
 
@@ -93,12 +93,16 @@ Pushkar is based in San Francisco Bay Area!
 
 #### Official Blogs
 
+  * [Implementing the Auto-refreshing Official CVE Feed](https://kubernetes.dev/blog/2022/09/12/k8s-cve-feed-alpha/)
+  * [Announcing the Auto-refreshing Official CVE Feed](https://kubernetes.io/blog/2022/09/12/k8s-cve-feed-alpha/)
   * [A Closer Look at NSA/CISA Kubernetes Hardening Guidance, Oct. 2021](https://kubernetes.io/blog/2021/10/05/nsa-cisa-kubernetes-hardening-guidance/)
       * Cited by [Updated: NSA/CISA Kubernetes Hardening Guidance v1.1](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/0/CTR_Kubernetes_Hardening_Guidance_1.1_20220315.PDF#page=48) 
   * [Cloud Native Security for your Clusters, Nov. 2020](https://kubernetes.io/blog/2020/11/18/cloud-native-security-for-your-clusters)
 
 #### Official Documentation
-  * [Reference: Ports and Protocols](https://kubernetes.io/docs/reference/ports-and-protocols/)
+  * References:
+    * [Ports and Protocols](https://kubernetes.io/docs/reference/ports-and-protocols/)
+    * [Official CVE Feed](https://kubernetes.io/docs/reference/issues-security/official-cve-feed/)
   * Tutorials:
     * [Apply Pod Security Standards at Cluster Level](https://kubernetes.io/docs/tutorials/security/cluster-level-pss/)
     * [Apply Pod Security Standards at Namespace Level](https://kubernetes.io/docs/tutorials/security/ns-level-pss/)
