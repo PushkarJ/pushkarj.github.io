@@ -43,6 +43,9 @@ Pushkar is based in San Francisco Bay Area!
 
 ### [PCI (Payment Card Industry)](https://www.pcisecuritystandards.org/) 
   * [SIG (Special Interest Group): Best Practices for Container Orchestration](https://blog.pcisecuritystandards.org/pci-ssc-announces-2021-special-interest-group-election-results)
+  * New Information Supplement: Guidance for Containers and Container Orchestration Tools
+    * [Blog](https://blog.pcisecuritystandards.org/new-information-supplement-guidance-for-containers-and-container-orchestration-tools)
+    * [Guidance](https://docs-prv.pcisecuritystandards.org/Guidance%20Document/Containers%20and%20Container%20Orchestration%20Tools/Guidance-for-Containers-and-Container-Ochestration-Tools-v1_0.pdf?hsCtaTracking=e1f57154-dcd8-4ddc-88bc-099110ddaec7%7C5b4d5cdd-43fb-4107-92c5-cfe752cdc807)
 
 ## Past Affiliations
 
