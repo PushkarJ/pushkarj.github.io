@@ -5,7 +5,7 @@ title: About
 
 # About
 
-Pushkar Joglekar is a _Staff Security Engineer_ currently working at [VMware Tanzu](#vmware-tanzu) with the goal to "Make _Kubernetes_ Secure For All". He wears multiple hats in the community as a:
+Pushkar Joglekar is a _Sr. Security Engineer II_ currently working at [Credit Karma](#credit-karma). He also wears multiple hats in cloud native community with the goal to "Make _Kubernetes_ Secure For All":
 - [CNCF Security - TAG](#cncf-cloud-native-computing-foundation) Tech Lead
 - [Associate Kubernetes Security Response Committee](https://github.com/kubernetes/committee-security-response#security-response-committee-src) Member 
 - [Kubernetes SIG Security Tooling](#kubernetes) Sub-Project Lead
