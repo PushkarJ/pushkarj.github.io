@@ -19,10 +19,10 @@ Pushkar is based in San Francisco Bay Area!
 
 ## Current Affiliations
 
-### [VMware Tanzu](https://tanzu.vmware.com/)
+### [Credit Karma](https://engineering.creditkarma.com/)
 
-  * Staff Security Engineer 1 - Kubernetes Upstream 
-  * Working across Product, Compliance, and Engineering teams to move security *left* and *up* by balancing customer escalations with opensource contributions that enhance security posture of downstream products
+  * Sr. Security Engineer II
+  * Design, Develop and Maintain cloud native security solutions, frameworks and platforms
 
 ### [CNCF (Cloud Native Computing Foundation)](https://www.cncf.io/)
 
@@ -48,6 +48,11 @@ Pushkar is based in San Francisco Bay Area!
     * [Guidance](https://docs-prv.pcisecuritystandards.org/Guidance%20Document/Containers%20and%20Container%20Orchestration%20Tools/Guidance-for-Containers-and-Container-Ochestration-Tools-v1_0.pdf?hsCtaTracking=e1f57154-dcd8-4ddc-88bc-099110ddaec7%7C5b4d5cdd-43fb-4107-92c5-cfe752cdc807)
 
 ## Past Affiliations
+
+### [VMware Tanzu](https://tanzu.vmware.com/)
+
+  * Staff Security Engineer I - Kubernetes Upstream (March 2021 - October 2022)
+  * Working across Product, Compliance, and Engineering teams to move security *left* and *up* by balancing customer escalations with opensource contributions that enhance security posture of downstream products
 
 ### [Visa Inc.](https://visa.com)
   * Sr. Cybersecurity Engineer - Security Architecture & Engineering (June 2015 - March 2021)
@@ -78,6 +83,7 @@ Pushkar is based in San Francisco Bay Area!
 
 ## Awards
 
+* [Google Open Source Peer Bonus Award 2022: Kubernetes and CNCF](https://opensource.googleblog.com/2022/09/announcing-the-second-group-of-open-source-peer-bonus-winners-in-2022.html)
 * [Kubernetes Community Awards 2021: Security](https://www.kubernetes.dev/community/awards/2021/#security)
 * [CSO50 2019: Next Generation Security Product Award](https://usa.visa.com/visa-everywhere/blog/bdp/2019/11/14/safety-in-numbers-1573775010350.html)
 * [CMU INI 2015: Outstanding Student Service Award for Teaching Assistant](https://www.cmu.edu/ini/news/2015/awards.html)
@@ -93,6 +99,7 @@ Pushkar is based in San Francisco Bay Area!
 
 #### Official Blogs
 
+  * [Current State: 2019 Third Party Security Audit of Kubernetes](https://kubernetes.io/blog/2022/10/05/current-state-2019-third-party-audit/)
   * [Implementing the Auto-refreshing Official CVE Feed, Sept. 2022](https://kubernetes.dev/blog/2022/09/12/k8s-cve-feed-alpha/)
   * [Announcing the Auto-refreshing Official CVE Feed, Sept. 2022](https://kubernetes.io/blog/2022/09/12/k8s-cve-feed-alpha/)
   * [A Closer Look at NSA/CISA Kubernetes Hardening Guidance, Oct. 2021](https://kubernetes.io/blog/2021/10/05/nsa-cisa-kubernetes-hardening-guidance/)
