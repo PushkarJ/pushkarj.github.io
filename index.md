@@ -10,7 +10,7 @@ Pushkar Joglekar is a _Sr. Security Engineer II_ currently working at [Credit Ka
 - [Associate Kubernetes Security Response Committee](https://github.com/kubernetes/committee-security-response#security-response-committee-src) Member 
 - [Kubernetes SIG Security Tooling](#kubernetes) Sub-Project Lead
 
-During the last few years, he feels incredibly fortunate to have written the security chapters in Nigel Poulton’s [“The Kubernetes Book”](#publications) which he looks forward to updating every year. Prior to this current role, he worked on securing massive Kubernetes deployments at [Visa](#visa-inc) (end user), playing a dual role of a security architect and engineer. He is also the co-creator of award winning container runtime security tool: [MASHUP](#awards)
+During the last few years, he feels incredibly fortunate to have written the security chapters in Nigel Poulton’s [“The Kubernetes Book”](#publications) which he looks forward to updating every year. Prior to this current role, he worked on securing massive Kubernetes deployments at [Visa](#visa-inc) (end user) and [VMware Tanzu](#vmware-tanzu) (Service Provider), playing a dual role of a security architect and engineer. He is also the co-creator of award winning container runtime security tool: [MASHUP](#awards)
 
 In his free time, he loves taking photos, watching cricket and firmly believes that Chai fixes everything!
 
