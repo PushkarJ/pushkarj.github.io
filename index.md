@@ -28,12 +28,12 @@ Pushkar is based in San Francisco Bay Area!
 
   * [Among Top 2-3% contributors worldwide since inception](https://all.devstats.cncf.io/d/9/developer-activity-counts-by-repository-group-table?orgId=1&var-period_name=First%20CNCF%20project%20join%20date%20-%20now&var-metric=contributions&var-repogroup_name=CNCF&var-country_name=All)
   * [TAG (Technical Advisory Group) Security Lead](https://lists.cncf.io/g/cncf-toc/topic/result_pushkar_joglekar/88381568)
-  * [Program Committee Member](https://www.cncf.io/blog/2021/08/04/inside-the-numbers-the-kubecon-cloudnativecon-selection-process-for-kubecon-cloudnativecon-north-america-2021/)
+  * [Program Committee](https://www.cncf.io/blog/2021/03/08/a-look-inside-the-kubecon-cloudnativecon-schedule-selection-process/)
     * [Cloud Native SecurityCon Europe 2022](https://www.credly.com/badges/c959b3ac-11b4-485f-99ab-f7e968e833f9/public_url)
-    * [KubeCon + CloudNativeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) 
-        * [2022](https://www.credly.com/badges/75d8763c-c50b-4e19-abe7-5efd237c1fa4/public_url)
-        * [2021](https://www.credly.com/badges/2dc7336e-ad39-4a1c-a6f9-e88012d6d1af/public_url) 
-  
+    * [KubeCon + CloudNativeCon North America: Security + Identity + Policy Track](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
+      * Member: [2022](https://www.credly.com/badges/75d8763c-c50b-4e19-abe7-5efd237c1fa4/public_url), [2021](https://www.credly.com/badges/2dc7336e-ad39-4a1c-a6f9-e88012d6d1af/public_url) 
+      * Track Co-Chair: [2022](https://www.credly.com/badges/07f19e21-b0dd-40cc-ae91-74588e301eb3/public_url)
+
 ### [Kubernetes](https://kubernetes.io/)
 
   * [Among Top 1-2% contributors worldwide since inception](https://all.devstats.cncf.io/d/9/developer-activity-counts-by-repository-group-table?orgId=1&var-period_name=First%20CNCF%20project%20join%20date%20-%20now&var-metric=contributions&var-repogroup_name=Kubernetes&var-country_name=All)
@@ -160,8 +160,10 @@ Pushkar is based in San Francisco Bay Area!
   * [North America 2022](https://kccncna2022.sched.com/?iframe=no)
     * Acceptance rate: [11% , 166 / 1526 submissions](https://www.cncf.io/blog/2022/08/03/inside-the-numbers-the-kubecon-cloudnativecon-selection-process-for-north-america-2022/)
     * Detroit, Michigan, USA, Oct 24-28
-      * [A Raccoon and a Group of Turtles Secure Clusters Together!](https://kccncna2022.sched.com/event/182HO) 
+      * [A Raccoon and a Group of Turtles Secure Clusters Together!](https://kccncna2022.sched.com/event/182HO)
+        * [Youtube Recording](https://www.youtube.com/watch?v=oS-YB-_ZEFY)  
       * [Tutorial: Reducing the Sticker Price of Kubernetes Security](https://kccncna2022.sched.com/event/182K6)
+        * [Youtube Recording](https://www.youtube.com/watch?v=bu93NHRUnhw)
   * [Europe 2022](https://kccnceu2022.sched.com/?iframe=no)
     * Acceptance rate [12% , 148 / 1187 submissions](https://www.cncf.io/blog/2022/03/09/inside-the-numbers-the-kubecon-cloudnativecon-selection-process-for-europe-2022/)
     * Valencia, Spain, May 16-20
