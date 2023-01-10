@@ -134,6 +134,7 @@ Pushkar is based in San Francisco Bay Area!
       * [IEEE](https://ieeexplore.ieee.org/abstract/document/9647599)
     * Media Coverage:
       * [Virtualization Review](https://virtualizationreview.com/articles/2021/10/12/cncf-security-surveys.aspx)
+      * [TheNewStack](https://thenewstack.io/cncf-security-whitepaper-shows-the-complexity-of-securing-cloud-native-operations)
     * Translations:
       * [Chinese](https://github.com/cncf/tag-security/blob/main/security-whitepaper/v1/cloud-native-security-whitepaper-simplified-chinese.md)
       * [Portugese](https://github.com/cncf/tag-security/blob/main/security-whitepaper/v1/cloud-native-security-whitepaper-brazilian-portugese.md)
