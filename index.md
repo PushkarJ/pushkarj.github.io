@@ -91,14 +91,15 @@ Pushkar is based in San Francisco Bay Area!
 ## Publications
 
 ### [The Kubernetes Book, 2019 - Present](https://www.amazon.com/dp/B09QFM8H6T)
-  * Amazon Book Rating: 4.5/5 (800+ reviews)
+  * Amazon Book Rating: 4.5/5 (1500+ reviews)
   * Wrote both security chapters
-  * [16 Google Scholar Citations](https://scholar.google.com/scholar?cites=5033671955994310341&as_sdt=2005&sciodt=0,5&hl=en) 
+  * [20 Google Scholar Citations](https://scholar.google.com/scholar?cites=5033671955994310341&as_sdt=2005&sciodt=0,5&hl=en) 
 
 ### Kubernetes Project Contributions
 
 #### Official Blogs
 
+  * [Updates to the Auto-refreshing Official CVE Feed, April 2023](https://kubernetes.io/blog/2023/04/25/k8s-cve-feed-beta/)
   * [Current State: 2019 Third Party Security Audit of Kubernetes, Oct. 2022](https://kubernetes.io/blog/2022/10/05/current-state-2019-third-party-audit/)
   * [Implementing the Auto-refreshing Official CVE Feed, Sept. 2022](https://kubernetes.dev/blog/2022/09/12/k8s-cve-feed-alpha/)
   * [Announcing the Auto-refreshing Official CVE Feed, Sept. 2022](https://kubernetes.io/blog/2022/09/12/k8s-cve-feed-alpha/)
@@ -138,6 +139,7 @@ Pushkar is based in San Francisco Bay Area!
     * Translations:
       * [Chinese](https://github.com/cncf/tag-security/blob/main/security-whitepaper/v1/cloud-native-security-whitepaper-simplified-chinese.md)
       * [Portugese](https://github.com/cncf/tag-security/blob/main/security-whitepaper/v1/cloud-native-security-whitepaper-brazilian-portugese.md)
+      * [Spanish](https://github.com/cncf/tag-security/blob/main/security-whitepaper/v1/cloud-native-security-whitepaper-spanish.md)
 
 ## Media Coverage
 
