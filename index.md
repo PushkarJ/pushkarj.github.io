@@ -6,20 +6,18 @@ title: About
 # About
 
 Pushkar Joglekar is a _Sr. Security Engineer II_ currently working at [Credit Karma](#credit-karma). He also wears multiple hats in cloud native community with the goal to "Make _Kubernetes_ Secure For All":
-- [CNCF Security - TAG](#cncf-cloud-native-computing-foundation) Tech Lead
-- [Associate Kubernetes Security Response Committee](https://github.com/kubernetes/committee-security-response#security-response-committee-src) Member 
+- [CNCF Security - TAG](#cncf-cloud-native-computing-foundation) Co-Chair 
 - [Kubernetes SIG Security Tooling](#kubernetes) Sub-Project Lead
 
-During the last few years, he feels incredibly fortunate to have written the security chapters in Nigel Poulton’s [“The Kubernetes Book”](#publications) which he looks forward to updating every year. Prior to this current role, he worked on securing massive Kubernetes deployments at [Visa](#visa-inc) (End User) and [VMware Tanzu](#vmware-tanzu) (Service Provider), playing a dual role of a security architect and engineer. He is also the co-creator of award winning container runtime security tool: [MASHUP](#awards)
+Since 2019, he feels incredibly fortunate to have written the security chapters in Nigel Poulton’s [“The Kubernetes Book”](#publications) which he looks forward to updating every year. Prior to this current role, he worked on securing massive Kubernetes deployments at [Visa](#visa-inc) (End User) and [VMware Tanzu](#vmware-tanzu) (Service Provider), playing a dual role of a security architect and engineer. He is also the co-creator of award winning container runtime security tool: [MASHUP](#awards)
 
 In his free time, he loves taking photos, watching cricket and firmly believes that Chai fixes everything!
 
 Pushkar is based in San Francisco Bay Area!
 
-
 ## Current Affiliations
 
-### [Credit Karma](https://engineering.creditkarma.com/)
+### [Credit Karma](https://www.creditkarma.com/)
 
   * Sr. Security Engineer II
   * Design, Develop and Maintain cloud native security solutions, frameworks and platforms
@@ -27,7 +25,9 @@ Pushkar is based in San Francisco Bay Area!
 ### [CNCF (Cloud Native Computing Foundation)](https://www.cncf.io/)
 
   * [Among Top 2-3% contributors worldwide since inception](https://all.devstats.cncf.io/d/9/developer-activity-counts-by-repository-group-table?orgId=1&var-period_name=First%20CNCF%20project%20join%20date%20-%20now&var-metric=contributions&var-repogroup_name=CNCF&var-country_name=All)
-  * [TAG (Technical Advisory Group) Security Lead](https://lists.cncf.io/g/cncf-toc/topic/result_pushkar_joglekar/88381568)
+  * [TAG (Technical Advisory Group) Security](https://github.com/cncf/tag-security/) 
+    * [Tech Lead](https://lists.cncf.io/g/cncf-toc/topic/result_pushkar_joglekar/88381568) (Jan 2022 - June 2023)
+    * [Co-Chair](https://lists.cncf.io/g/cncf-toc/message/8173) (June 2023 - Present)
   * [Program Committee](https://www.cncf.io/blog/2021/03/08/a-look-inside-the-kubecon-cloudnativecon-schedule-selection-process/)
     * [Cloud Native SecurityCon Europe 2022](https://www.credly.com/badges/c959b3ac-11b4-485f-99ab-f7e968e833f9/public_url)
     * [KubeCon + CloudNativeCon North America: Security + Identity + Policy Track](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
@@ -39,7 +39,7 @@ Pushkar is based in San Francisco Bay Area!
   * [Among Top 1-2% contributors worldwide since inception](https://all.devstats.cncf.io/d/9/developer-activity-counts-by-repository-group-table?orgId=1&var-period_name=First%20CNCF%20project%20join%20date%20-%20now&var-metric=contributions&var-repogroup_name=Kubernetes&var-country_name=All)
   * [SIG (Special Interest Group) Security](https://github.com/kubernetes/community/tree/master/sig-security) 
       * [Tooling Sub-Project Lead](https://github.com/kubernetes/community/tree/master/sig-security)
-  * [Associate Security Response Committee Member](https://github.com/kubernetes/committee-security-response#security-response-committee-src)
+  * [Associate Security Response Committee Member](https://github.com/kubernetes/committee-security-response#security-response-committee-src) (May 2022 - Feb 2023)
 
 ### [PCI (Payment Card Industry)](https://www.pcisecuritystandards.org/) 
   * [SIG (Special Interest Group): Best Practices for Container Orchestration](https://blog.pcisecuritystandards.org/pci-ssc-announces-2021-special-interest-group-election-results)
@@ -72,12 +72,12 @@ Pushkar is based in San Francisco Bay Area!
   * Mentored 4 new graduate engineers to set them up for success in a month from joining the team
 
 ## Patents
-* [(3 Citations)](https://patents.google.com/patent/WO2020060537A1#citedBy) [Microservice adaptive security hardening](https://patents.google.com/patent/WO2020060537A1)
-* [(2 Citations)](https://patents.google.com/patent/WO2019013771A1#citedBy) [Systems and Methods for generating behavior profiles for new entities](https://patents.google.com/patent/WO2019013771A1)
-* [(6 Citations)](https://patents.google.com/patent/WO2019213086A1#citedBy) [Self-learning alerting and anomaly detection in monitoring systems](https://patents.google.com/patent/WO2019213086A1)
-* [(2 Citation)](https://patents.google.com/patent/WO2019194787A1#citedBy) [Real-time entity anomaly detection](https://patents.google.com/patent/WO2019194787A1)
-* [(3 Citations)](https://patents.google.com/patent/WO2020040777A1#citedBy) [Model shift prevention through machine learning](https://patents.google.com/patent/WO2020040777A1)
-* [(10 Citations)](https://patents.google.com/patent/WO2020005263A1#citedBy) [Systems and methods to secure api platforms](https://patents.google.com/patent/WO2020005263A1)
+* [(8 Citations)](https://patents.google.com/patent/WO2020060537A1#citedBy) [Microservice adaptive security hardening](https://patents.google.com/patent/WO2020060537A1)
+* [(3 Citations)](https://patents.google.com/patent/WO2019013771A1#citedBy) [Systems and Methods for generating behavior profiles for new entities](https://patents.google.com/patent/WO2019013771A1)
+* [(18 Citations)](https://patents.google.com/patent/WO2019213086A1#citedBy) [Self-learning alerting and anomaly detection in monitoring systems](https://patents.google.com/patent/WO2019213086A1)
+* [(4 Citation)](https://patents.google.com/patent/WO2019194787A1#citedBy) [Real-time entity anomaly detection](https://patents.google.com/patent/WO2019194787A1)
+* [(8 Citations)](https://patents.google.com/patent/WO2020040777A1#citedBy) [Model shift prevention through machine learning](https://patents.google.com/patent/WO2020040777A1)
+* [(53 Citations)](https://patents.google.com/patent/WO2020005263A1#citedBy) [Systems and methods to secure api platforms](https://patents.google.com/patent/WO2020005263A1)
 * [Proactive defense of untrustworthy machine learning system](https://patents.google.com/patent/WO2020040776A1)
 * [Systems, Methods, and Computer Program Products for Authorizing a Transaction](https://patents.google.com/patent/US20210065194A1)
 
