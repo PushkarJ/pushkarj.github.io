@@ -85,10 +85,10 @@ Pushkar is based in San Francisco Bay Area!
 
 ## Publications
 
-### [The Kubernetes Book, 2019 - Present](https://www.amazon.com/dp/B09QFM8H6T)
-  * Amazon Book Rating: 4.5/5 (1500+ reviews)
+### [The Kubernetes Book, 2019 - Present](https://www.amazon.com/dp/B072TS9ZQZ)
+  * Amazon Book Rating: 4.5/5 (1200+ reviews)
   * Wrote both security chapters
-  * [20 Google Scholar Citations](https://scholar.google.com/scholar?cites=5033671955994310341&as_sdt=2005&sciodt=0,5&hl=en) 
+  * [20 Google Scholar Citations](https://scholar.google.com/scholar?cites=13639352755265568621&as_sdt=2005&sciodt=0,5&hl=en) 
 
 ### Kubernetes Project Contributions
 
@@ -161,6 +161,10 @@ Pushkar is based in San Francisco Bay Area!
   
 ### [KubeCon + CloudNativeCon](https://www.cncf.io/kubecon-cloudnativecon-events/)
 
+  * [North America 2023](https://kccncna2023.sched.com/)
+    * Chicago, Illinois, USA, Nov 6-9
+      * [SIG Security: Unravelling the Kubernetes Security Audit Together](https://kccncna2023.sched.com/event/1R2mT)
+      * [Keynote: Hot Dog! The Technical Oversight Committee is on a Roll!](https://kccncna2023.sched.com/event/1R4bz/)
   * [North America 2022](https://kccncna2022.sched.com/?iframe=no)
     * Acceptance rate: [11% , 166 / 1526 submissions](https://www.cncf.io/blog/2022/08/03/inside-the-numbers-the-kubecon-cloudnativecon-selection-process-for-north-america-2022/)
     * Detroit, Michigan, USA, Oct 24-28
