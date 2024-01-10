@@ -49,13 +49,13 @@ Pushkar is based in San Francisco Bay Area!
 ### [VMware Tanzu](https://tanzu.vmware.com/)
 
 **Kubernetes Upstream Engineering** (March 2021 - October 2022)
-  * _Sr. Security Engineer -> Staff Security Engineer_
+  * _Sr. Security Engineer &rarr; Staff Security Engineer_
     * Working across Product, Compliance, and Engineering teams to move security *left* and *up* by balancing customer escalations with opensource contributions that enhance security posture of downstream products
 
 ### [Visa Inc.](https://visa.com)
 
 **Security Architecture & Engineering** (June 2015 - March 2021)
-  * _Information Security Analyst -> Sr. Cybersecurity / Staff Engineer -> Manager_
+  * _Information Security Analyst &rarr; Sr. Cybersecurity / Staff Engineer &rarr; Manager_
     * Dual role of architect and engineer lead for securing containers, secrets and devops:
       * Led a team of 3-4 engineers building award winning container security product
       * Designed _secure by default_ container platforms processing millions of transactions per day
