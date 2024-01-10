@@ -81,7 +81,7 @@ Pushkar is based in San Francisco Bay Area!
 1. [Proactive defense of untrustworthy machine learning system](https://patents.google.com/patent/WO2020040776A1)
 1. [Systems, Methods, and Computer Program Products for Authorizing a Transaction](https://patents.google.com/patent/US20210065194A1)
 
-Note: 3 granted, 4 pending
+Note: 3 granted, 5 pending
 
 ## Awards
 
