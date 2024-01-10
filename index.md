@@ -5,7 +5,7 @@ title: About
 
 # About
 
-Pushkar Joglekar is a _Sr. Security Engineer II_ currently working at [Credit Karma](#credit-karma). He also wears multiple hats in cloud native community with the goal to "Make _Kubernetes_ Secure For All":
+Pushkar Joglekar is a _Sr. Cloud Security Engineer II_ currently working at [Credit Karma](#credit-karma). He also wears multiple hats in cloud native community with the goal to "Make _Kubernetes_ Secure For All":
 - [CNCF Security - TAG](#cncf-cloud-native-computing-foundation) Co-Chair 
 - [Kubernetes SIG Security Tooling](#kubernetes) Sub-Project Lead
 
@@ -19,8 +19,11 @@ Pushkar is based in San Francisco Bay Area!
 
 ### [Credit Karma](https://www.creditkarma.com/)
 
-  * Sr. Security Engineer II
-  * Design, Develop and Maintain cloud native security solutions, frameworks and platforms
+  * **Cloud Security Engineering** (Oct 2022 - Present)
+    * _Sr. Cloud Security Engineer II_
+      * Design, Develop and Maintain cloud native security solutions, frameworks and platforms
+      * Technical Lead for driving cross-org collaboration to reduce risk & improve security posture of our Google Cloud footprint
+      * One of the trusted senior engineers responsible for secure design reviews of GenAI and Data Security usecases
 
 ### [CNCF (Cloud Native Computing Foundation)](https://www.cncf.io/)
 
@@ -41,24 +44,25 @@ Pushkar is based in San Francisco Bay Area!
       * [Tooling Sub-Project Lead](https://github.com/kubernetes/community/tree/master/sig-security)
   * [Associate Security Response Committee Member](https://github.com/kubernetes/committee-security-response#security-response-committee-src) (May 2022 - Feb 2023)
 
-
 ## Past Affiliations
 
 ### [VMware Tanzu](https://tanzu.vmware.com/)
 
-  * Staff Security Engineer I - Kubernetes Upstream (March 2021 - October 2022)
-  * Working across Product, Compliance, and Engineering teams to move security *left* and *up* by balancing customer escalations with opensource contributions that enhance security posture of downstream products
+  * **Kubernetes Upstream Engineering** (March 2021 - October 2022)
+    * _Sr. Security Engineer -> Staff Security Engineer_
+      * Working across Product, Compliance, and Engineering teams to move security *left* and *up* by balancing customer escalations with opensource contributions that enhance security posture of downstream products
 
 ### [Visa Inc.](https://visa.com)
-  * Sr. Cybersecurity Engineer - Security Architecture & Engineering (June 2015 - March 2021)
-  * Dual role of architect and engineer lead for securing containers, secrets and devops:
-    * Led a team of 3-4 engineers building award winning container security product
-    * Designed _secure by default_ container platforms processing millions of transactions per day
-    * Evangelized security topics via online/in-person speaking engagements from executives to developers
-    * Deployed Secrets Mgmt. system with 99.999% availability serving 100+ apps
+  * **Security Architecture & Engineering** (June 2015 - March 2021)
+    * _Information Security Analyst -> Sr. Cybersecurity / Staff Engineer -> Manager_
+      * Dual role of architect and engineer lead for securing containers, secrets and devops:
+        * Led a team of 3-4 engineers building award winning container security product
+        * Designed _secure by default_ container platforms processing millions of transactions per day
+        * Evangelized security topics via online/in-person speaking engagements from executives to developers
+        * Deployed Secrets Mgmt. system with 99.999% availability serving 100+ apps
 
 ### [Carnegie Mellon University](https://www.cmu.edu/)
-  * Graduate Degree (MS) in Information Technology (Aug 2013 - May 2015) - [Information Networking Institute](https://www.cmu.edu/ini/)
+  * Graduate Degree (MS) in Information Technology - [Information Networking Institute](https://www.cmu.edu/ini/) (Aug 2013 - May 2015) 
   * Graduate Teaching Assistant (Aug 2014 - May 2015)
 
 ### [ACI Worldwide Inc.](https://www.aciworldwide.com/)
@@ -67,14 +71,17 @@ Pushkar is based in San Francisco Bay Area!
   * Mentored 4 new graduate engineers to set them up for success in a month from joining the team
 
 ## Patents
-* [(8 Citations)](https://patents.google.com/patent/WO2020060537A1#citedBy) [Microservice adaptive security hardening](https://patents.google.com/patent/WO2020060537A1)
-* [(3 Citations)](https://patents.google.com/patent/WO2019013771A1#citedBy) [Systems and Methods for generating behavior profiles for new entities](https://patents.google.com/patent/WO2019013771A1)
-* [(18 Citations)](https://patents.google.com/patent/WO2019213086A1#citedBy) [Self-learning alerting and anomaly detection in monitoring systems](https://patents.google.com/patent/WO2019213086A1)
-* [(4 Citation)](https://patents.google.com/patent/WO2019194787A1#citedBy) [Real-time entity anomaly detection](https://patents.google.com/patent/WO2019194787A1)
-* [(8 Citations)](https://patents.google.com/patent/WO2020040777A1#citedBy) [Model shift prevention through machine learning](https://patents.google.com/patent/WO2020040777A1)
-* [(53 Citations)](https://patents.google.com/patent/WO2020005263A1#citedBy) [Systems and methods to secure api platforms](https://patents.google.com/patent/WO2020005263A1)
-* [Proactive defense of untrustworthy machine learning system](https://patents.google.com/patent/WO2020040776A1)
-* [Systems, Methods, and Computer Program Products for Authorizing a Transaction](https://patents.google.com/patent/US20210065194A1)
+
+1. [(3 Citations)](https://patents.google.com/patent/WO2019013771A1#citedBy) [Systems and Methods for generating behavior profiles for new entities](https://patents.google.com/patent/WO2019013771A1)
+1. [(18 Citations)](https://patents.google.com/patent/WO2019213086A1#citedBy) [Self-learning alerting and anomaly detection in monitoring systems](https://patents.google.com/patent/WO2019213086A1)
+1. [(8 Citations)](https://patents.google.com/patent/WO2020060537A1#citedBy) [Microservice adaptive security hardening](https://patents.google.com/patent/WO2020060537A1)
+1. [(4 Citation)](https://patents.google.com/patent/WO2019194787A1#citedBy) [Real-time entity anomaly detection](https://patents.google.com/patent/WO2019194787A1)
+1. [(8 Citations)](https://patents.google.com/patent/WO2020040777A1#citedBy) [Model shift prevention through machine learning](https://patents.google.com/patent/WO2020040777A1)
+1. [(53 Citations)](https://patents.google.com/patent/WO2020005263A1#citedBy) [Systems and methods to secure api platforms](https://patents.google.com/patent/WO2020005263A1)
+1. [Proactive defense of untrustworthy machine learning system](https://patents.google.com/patent/WO2020040776A1)
+1. [Systems, Methods, and Computer Program Products for Authorizing a Transaction](https://patents.google.com/patent/US20210065194A1)
+
+Note: 3 granted, 4 pending
 
 ## Awards
 
@@ -164,7 +171,9 @@ Pushkar is based in San Francisco Bay Area!
   * [North America 2023](https://kccncna2023.sched.com/)
     * Chicago, Illinois, USA, Nov 6-9
       * [SIG Security: Unravelling the Kubernetes Security Audit Together](https://kccncna2023.sched.com/event/1R2mT)
+        * [Youtube Recording](https://youtu.be/qTKEd8mcb1U?si=nzkwp5TfhZ7faY82)
       * [Keynote: Hot Dog! The Technical Oversight Committee is on a Roll!](https://kccncna2023.sched.com/event/1R4bz/)
+        * [Youtube Recording](https://youtu.be/OvLHzfMig-k?si=c-Pkd9cEsunBKNMc)
   * [North America 2022](https://kccncna2022.sched.com/?iframe=no)
     * Acceptance rate: [11% , 166 / 1526 submissions](https://www.cncf.io/blog/2022/08/03/inside-the-numbers-the-kubecon-cloudnativecon-selection-process-for-north-america-2022/)
     * Detroit, Michigan, USA, Oct 24-28
