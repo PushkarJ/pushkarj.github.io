@@ -19,11 +19,11 @@ Pushkar is based in San Francisco Bay Area!
 
 ### [Credit Karma](https://www.creditkarma.com/)
 
-  * **Cloud Security Engineering** (Oct 2022 - Present)
-    * _Sr. Cloud Security Engineer II_
-      * Design, Develop and Maintain cloud native security solutions, frameworks and platforms
-      * Technical Lead for driving cross-org collaboration to reduce risk & improve security posture of our Google Cloud footprint
-      * One of the trusted senior engineers responsible for secure design reviews of GenAI and Data Security usecases
+**Cloud Security Engineering** (Oct 2022 - Present)
+  * _Sr. Cloud Security Engineer II_
+    * Design, Develop and Maintain cloud native security solutions, frameworks and platforms
+    * Technical Lead for driving cross-org collaboration to reduce risk & improve security posture of our Google Cloud footprint
+    * One of the trusted senior engineers responsible for secure design reviews of GenAI and Data Security usecases
 
 ### [CNCF (Cloud Native Computing Foundation)](https://www.cncf.io/)
 
@@ -48,18 +48,19 @@ Pushkar is based in San Francisco Bay Area!
 
 ### [VMware Tanzu](https://tanzu.vmware.com/)
 
-  * **Kubernetes Upstream Engineering** (March 2021 - October 2022)
-    * _Sr. Security Engineer -> Staff Security Engineer_
-      * Working across Product, Compliance, and Engineering teams to move security *left* and *up* by balancing customer escalations with opensource contributions that enhance security posture of downstream products
+**Kubernetes Upstream Engineering** (March 2021 - October 2022)
+  * _Sr. Security Engineer -> Staff Security Engineer_
+    * Working across Product, Compliance, and Engineering teams to move security *left* and *up* by balancing customer escalations with opensource contributions that enhance security posture of downstream products
 
 ### [Visa Inc.](https://visa.com)
-  * **Security Architecture & Engineering** (June 2015 - March 2021)
-    * _Information Security Analyst -> Sr. Cybersecurity / Staff Engineer -> Manager_
-      * Dual role of architect and engineer lead for securing containers, secrets and devops:
-        * Led a team of 3-4 engineers building award winning container security product
-        * Designed _secure by default_ container platforms processing millions of transactions per day
-        * Evangelized security topics via online/in-person speaking engagements from executives to developers
-        * Deployed Secrets Mgmt. system with 99.999% availability serving 100+ apps
+
+**Security Architecture & Engineering** (June 2015 - March 2021)
+  * _Information Security Analyst -> Sr. Cybersecurity / Staff Engineer -> Manager_
+    * Dual role of architect and engineer lead for securing containers, secrets and devops:
+      * Led a team of 3-4 engineers building award winning container security product
+      * Designed _secure by default_ container platforms processing millions of transactions per day
+      * Evangelized security topics via online/in-person speaking engagements from executives to developers
+      * Deployed Secrets Mgmt. system with 99.999% availability serving 100+ apps
 
 ### [Carnegie Mellon University](https://www.cmu.edu/)
   * Graduate Degree (MS) in Information Technology - [Information Networking Institute](https://www.cmu.edu/ini/) (Aug 2013 - May 2015) 
