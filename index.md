@@ -5,9 +5,7 @@ title: About
 
 # About
 
-Pushkar Joglekar is a _Sr. Cloud Security Engineer II_ currently working at [Credit Karma](#credit-karma). He also wears multiple hats in cloud native community with the goal to "Make _Kubernetes_ Secure For All":
-- [CNCF Security - TAG](#cncf-cloud-native-computing-foundation) Co-Chair 
-- [Kubernetes SIG Security Tooling](#kubernetes) Sub-Project Lead
+Pushkar Joglekar is a _Sr. Cloud Security Engineer II_ currently working at [Credit Karma](#credit-karma). He also a kubernetes security maintainer.
 
 Since 2019, he feels incredibly fortunate to have written the security chapters in Nigel Poulton’s [“The Kubernetes Book”](#publications) which he looks forward to updating every year. Prior to this current role, he worked on securing massive Kubernetes deployments at [Visa](#visa-inc) (End User) and [VMware Tanzu](#vmware-tanzu) (Service Provider), playing a dual role of a security architect and engineer. He is also the co-creator of award winning container runtime security tool: [MASHUP](#awards)
 
@@ -30,7 +28,7 @@ Pushkar is based in San Francisco Bay Area!
   * [Among Top 2-3% contributors worldwide since inception](https://all.devstats.cncf.io/d/9/developer-activity-counts-by-repository-group-table?orgId=1&var-period_name=First%20CNCF%20project%20join%20date%20-%20now&var-metric=contributions&var-repogroup_name=CNCF&var-country_name=All)
   * [TAG (Technical Advisory Group) Security](https://github.com/cncf/tag-security/) 
     * [Tech Lead](https://lists.cncf.io/g/cncf-toc/topic/result_pushkar_joglekar/88381568) (Jan 2022 - June 2023)
-    * [Co-Chair](https://lists.cncf.io/g/cncf-toc/message/8173) (June 2023 - Present)
+    * [Co-Chair](https://lists.cncf.io/g/cncf-toc/message/8173) (June 2023 - July 2024)
   * [Program Committee](https://www.cncf.io/blog/2021/03/08/a-look-inside-the-kubecon-cloudnativecon-schedule-selection-process/)
     * [Cloud Native SecurityCon Europe 2022](https://www.credly.com/badges/c959b3ac-11b4-485f-99ab-f7e968e833f9/public_url)
     * [KubeCon + CloudNativeCon North America: Security + Identity + Policy Track](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
