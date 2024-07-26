@@ -5,7 +5,7 @@ title: About
 
 # About
 
-Pushkar Joglekar is a _Sr. Cloud Security Engineer II_ currently working at [Credit Karma](#credit-karma). He also a kubernetes security maintainer.
+Pushkar Joglekar is a _Sr. Cloud Security Engineer II_ currently working at [Credit Karma](#credit-karma). He is also a Kubernetes security maintainer.
 
 Since 2019, he feels incredibly fortunate to have written the security chapters in Nigel Poulton’s [“The Kubernetes Book”](#publications) which he looks forward to updating every year. Prior to this current role, he worked on securing massive Kubernetes deployments at [Visa](#visa-inc) (End User) and [VMware Tanzu](#vmware-tanzu) (Service Provider), playing a dual role of a security architect and engineer. He is also the co-creator of award winning container runtime security tool: [MASHUP](#awards)
 
