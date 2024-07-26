@@ -23,6 +23,16 @@ Pushkar is based in San Francisco Bay Area!
     * Technical Lead for driving cross-org collaboration to reduce risk & improve security posture of our Google Cloud footprint
     * One of the trusted senior engineers responsible for secure design reviews of GenAI and Data Security usecases
 
+
+### [Kubernetes](https://kubernetes.io/)
+
+  * [Among Top 1-2% contributors worldwide since inception](https://all.devstats.cncf.io/d/9/developer-activity-counts-by-repository-group-table?orgId=1&var-period_name=First%20CNCF%20project%20join%20date%20-%20now&var-metric=contributions&var-repogroup_name=Kubernetes&var-country_name=All)
+  * [SIG (Special Interest Group) Security](https://github.com/kubernetes/community/tree/master/sig-security) 
+      * [Tooling Sub-Project Lead](https://github.com/kubernetes/community/tree/master/sig-security)
+  * [Associate Security Response Committee Member](https://github.com/kubernetes/committee-security-response#security-response-committee-src) (May 2022 - Feb 2023)
+
+## Past Affiliations
+
 ### [CNCF (Cloud Native Computing Foundation)](https://www.cncf.io/)
 
   * [Among Top 2-3% contributors worldwide since inception](https://all.devstats.cncf.io/d/9/developer-activity-counts-by-repository-group-table?orgId=1&var-period_name=First%20CNCF%20project%20join%20date%20-%20now&var-metric=contributions&var-repogroup_name=CNCF&var-country_name=All)
@@ -34,15 +44,6 @@ Pushkar is based in San Francisco Bay Area!
     * [KubeCon + CloudNativeCon North America: Security + Identity + Policy Track](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
       * Member: [2022](https://www.credly.com/badges/75d8763c-c50b-4e19-abe7-5efd237c1fa4/public_url), [2021](https://www.credly.com/badges/2dc7336e-ad39-4a1c-a6f9-e88012d6d1af/public_url) 
       * Track Co-Chair: [2022](https://www.credly.com/badges/07f19e21-b0dd-40cc-ae91-74588e301eb3/public_url)
-
-### [Kubernetes](https://kubernetes.io/)
-
-  * [Among Top 1-2% contributors worldwide since inception](https://all.devstats.cncf.io/d/9/developer-activity-counts-by-repository-group-table?orgId=1&var-period_name=First%20CNCF%20project%20join%20date%20-%20now&var-metric=contributions&var-repogroup_name=Kubernetes&var-country_name=All)
-  * [SIG (Special Interest Group) Security](https://github.com/kubernetes/community/tree/master/sig-security) 
-      * [Tooling Sub-Project Lead](https://github.com/kubernetes/community/tree/master/sig-security)
-  * [Associate Security Response Committee Member](https://github.com/kubernetes/committee-security-response#security-response-committee-src) (May 2022 - Feb 2023)
-
-## Past Affiliations
 
 ### [VMware Tanzu](https://tanzu.vmware.com/)
 
