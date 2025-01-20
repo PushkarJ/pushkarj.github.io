@@ -72,16 +72,16 @@ Pushkar is based in San Francisco Bay Area!
 
 ## Patents
 
-1. [(3 Citations)](https://patents.google.com/patent/WO2019013771A1#citedBy) [Systems and Methods for generating behavior profiles for new entities](https://patents.google.com/patent/WO2019013771A1)
-1. [(18 Citations)](https://patents.google.com/patent/WO2019213086A1#citedBy) [Self-learning alerting and anomaly detection in monitoring systems](https://patents.google.com/patent/WO2019213086A1)
-1. [(8 Citations)](https://patents.google.com/patent/WO2020060537A1#citedBy) [Microservice adaptive security hardening](https://patents.google.com/patent/WO2020060537A1)
-1. [(4 Citation)](https://patents.google.com/patent/WO2019194787A1#citedBy) [Real-time entity anomaly detection](https://patents.google.com/patent/WO2019194787A1)
-1. [(8 Citations)](https://patents.google.com/patent/WO2020040777A1#citedBy) [Model shift prevention through machine learning](https://patents.google.com/patent/WO2020040777A1)
-1. [(53 Citations)](https://patents.google.com/patent/WO2020005263A1#citedBy) [Systems and methods to secure api platforms](https://patents.google.com/patent/WO2020005263A1)
-1. [Proactive defense of untrustworthy machine learning system](https://patents.google.com/patent/WO2020040776A1)
-1. [Systems, Methods, and Computer Program Products for Authorizing a Transaction](https://patents.google.com/patent/US20210065194A1)
+1. [(13 Citations)](https://patents.google.com/patent/WO2019013771A1/en#citedBy) [Systems and Methods for generating behavior profiles for new entities](https://patents.google.com/patent/US11810185B2/en)
+1. [(30 Citations)](https://patents.google.com/patent/WO2019213086A1/en#citedBy) [Self-learning alerting and anomaly detection in monitoring systems](https://patents.google.com/patent/US11281552B2/en)
+1. [(21 Citations)](https://patents.google.com/patent/WO2020060537A1/en#citedBy) [Microservice adaptive security hardening](https://patents.google.com/patent/US12111918B2/en)
+1. [(13 Citation)](https://patents.google.com/patent/WO2019194787A1/en#citedBy) [Real-time entity anomaly detection](https://patents.google.com/patent/US12041140B2/en)
+1. [(23 Citations)](https://patents.google.com/patent/WO2020040777A1/en#citedBy) [Model shift prevention through machine learning](https://patents.google.com/patent/WO2020040777A1)
+1. [(75 Citations)](https://patents.google.com/patent/WO2020005263A1/en#citedBy) [Systems and methods to secure api platforms](https://patents.google.com/patent/US12052218B2/en)
+1. [(5 Citations)](https://patents.google.com/patent/WO2020040776A1/en#citedBy)[Proactive defense of untrustworthy machine learning system](https://patents.google.com/patent/US20210319099A1/en)
+1. [(2 Citations)](https://patents.google.com/patent/US20210065194A1#citedBy)[Systems, Methods, and Computer Program Products for Authorizing a Transaction](https://patents.google.com/patent/US20210065194A1)
 
-Note: 3 granted, 5 pending
+Note: 6 granted, 2 pending
 
 ## Awards
 
