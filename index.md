@@ -19,9 +19,13 @@ Pushkar is based in San Francisco Bay Area!
 
 **Cloud Security Engineering** (Oct 2022 - Present)
   * _Sr. Cloud Security Engineer II_
-    * Design, Develop and Maintain cloud native security solutions, frameworks and platforms
-    * Technical Lead for driving cross-org collaboration to reduce risk & improve security posture of our Google Cloud footprint
-    * One of the trusted senior engineers responsible for secure design reviews of GenAI and Data Security usecases
+  
+    * Technical Lead for driving cross-org collaboration to improve security posture of our Google Cloud footprint:
+  
+      * GenAI: Entrusted to be one of the few engineers to perform security design reviews for LLM usecases
+      * Vulnerability Management: Reached 0 critical and high Risks within 90 days through strong bias for risk prioritization, auto-remediation with human control and native integration in Developer Experience
+      * Data Security: Reinvigorated and operationalized a couple of stale security controls to save company 2% of security budget (~100k) by methodically resolving technical debt and redesigning it for 99.99% availability
+      * Containers: Co-authored a technical design with platform engineering to migrate away from a deprecated k8s security feature without any impact to site availability or security posture
 
 
 ### [Kubernetes](https://kubernetes.io/)
@@ -72,16 +76,16 @@ Pushkar is based in San Francisco Bay Area!
 
 ## Patents
 
-1. [(13 Citations)](https://patents.google.com/patent/WO2019013771A1/en#citedBy) [Systems and Methods for generating behavior profiles for new entities](https://patents.google.com/patent/US11810185B2/en)
-1. [(30 Citations)](https://patents.google.com/patent/WO2019213086A1/en#citedBy) [Self-learning alerting and anomaly detection in monitoring systems](https://patents.google.com/patent/US11281552B2/en)
-1. [(21 Citations)](https://patents.google.com/patent/WO2020060537A1/en#citedBy) [Microservice adaptive security hardening](https://patents.google.com/patent/US12111918B2/en)
-1. [(13 Citation)](https://patents.google.com/patent/WO2019194787A1/en#citedBy) [Real-time entity anomaly detection](https://patents.google.com/patent/US12041140B2/en)
-1. [(23 Citations)](https://patents.google.com/patent/WO2020040777A1/en#citedBy) [Model shift prevention through machine learning](https://patents.google.com/patent/WO2020040777A1)
-1. [(75 Citations)](https://patents.google.com/patent/WO2020005263A1/en#citedBy) [Systems and methods to secure api platforms](https://patents.google.com/patent/US12052218B2/en)
-1. [(5 Citations)](https://patents.google.com/patent/WO2020040776A1/en#citedBy) [Proactive defense of untrustworthy machine learning system](https://patents.google.com/patent/US20210319099A1/en)
-1. [(2 Citations)](https://patents.google.com/patent/US20210065194A1#citedBy) [Systems, Methods, and Computer Program Products for Authorizing a Transaction](https://patents.google.com/patent/US20210065194A1)
+1. [(30 Citations)](https://patents.google.com/patent/US11810185B2/en#citedBy) [Systems and Methods for generating behavior profiles for new entities](https://patents.google.com/patent/US11810185B2/en)
+1. [(33 Citations)](https://patents.google.com/patent/WO2019213086A1/en#citedBy) [Self-learning alerting and anomaly detection in monitoring systems](https://patents.google.com/patent/WO2019213086A1/en)
+1. [(33 Citations)](https://patents.google.com/patent/WO2020060537A1/en#citedBy) [Microservice adaptive security hardening](https://patents.google.com/patent/US12111918B2/en)
+1. [(23 Citation)](https://patents.google.com/patent/WO2019194787A1/en#citedBy) [Real-time entity anomaly detection](https://patents.google.com/patent/US12041140B2/en)
+1. [(38 Citations)](https://patents.google.com/patent/WO2020040777A1/en#citedBy) [Model shift prevention through machine learning](https://patents.google.com/patent/WO2020040777A1)
+1. [(86 Citations)](https://patents.google.com/patent/WO2020005263A1/en#citedBy) [Systems and methods to secure api platforms](https://patents.google.com/patent/US12052218B2/en)
+1. [(6 Citations)](https://patents.google.com/patent/WO2020040776A1/en#citedBy) [Proactive defense of untrustworthy machine learning system](https://patents.google.com/patent/US20210319099A1/en)
+1. [(4 Citations)](https://patents.google.com/patent/US20210065194A1#citedBy) [Systems, Methods, and Computer Program Products for Authorizing a Transaction](https://patents.google.com/patent/US20210065194A1)
 
-Note: 6 granted, 2 pending
+Note: 7 granted, 1 pending
 
 ## Awards
 
@@ -93,9 +97,9 @@ Note: 6 granted, 2 pending
 ## Publications
 
 ### [The Kubernetes Book, 2019 - Present](https://www.amazon.com/dp/B072TS9ZQZ)
-  * Amazon Book Rating: 4.5/5 (1200+ reviews)
+  * Amazon Book Rating: 4.5/5 (1500+ reviews)
   * Wrote both security chapters
-  * [20 Google Scholar Citations](https://scholar.google.com/scholar?cites=13639352755265568621&as_sdt=2005&sciodt=0,5&hl=en) 
+  * [63 Google Scholar Citations](https://scholar.google.com/scholar?cites=13639352755265568621&as_sdt=2005&sciodt=0,5&hl=en) 
 
 ### Kubernetes Project Contributions
 
