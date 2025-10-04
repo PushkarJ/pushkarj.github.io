@@ -21,7 +21,6 @@ Pushkar is based in San Francisco Bay Area!
   * _Sr. Cloud Security Engineer II_
   
     * Technical Lead for driving cross-org collaboration to improve security posture of our Google Cloud footprint:
-  
       * GenAI: Entrusted to be one of the few engineers to perform security design reviews for LLM usecases
       * Vulnerability Management: Reached 0 critical and high Risks within 90 days through strong bias for risk prioritization, auto-remediation with human control and native integration in Developer Experience
       * Data Security: Reinvigorated and operationalized a couple of stale security controls to save company 2% of security budget (~100k) by methodically resolving technical debt and redesigning it for 99.99% availability
