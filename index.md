@@ -31,7 +31,7 @@ Pushkar is based in San Francisco Bay Area!
 
   * [Among Top 1-2% contributors worldwide since inception](https://all.devstats.cncf.io/d/9/developer-activity-counts-by-repository-group-table?orgId=1&var-period_name=First%20CNCF%20project%20join%20date%20-%20now&var-metric=contributions&var-repogroup_name=Kubernetes&var-country_name=All)
   * [SIG (Special Interest Group) Security](https://github.com/kubernetes/community/tree/master/sig-security) 
-      * [Tooling Sub-Project Lead](https://github.com/kubernetes/community/tree/master/sig-security)
+      * [Tooling Sub-Project Lead](https://github.com/kubernetes/sig-security/blob/main/sig-security-tooling/OWNERS)
   * [Associate Security Response Committee Member](https://github.com/kubernetes/committee-security-response#security-response-committee-src) (May 2022 - Feb 2023)
 
 ## Past Affiliations
@@ -70,8 +70,8 @@ Pushkar is based in San Francisco Bay Area!
 
 ### [ACI Worldwide Inc.](https://www.aciworldwide.com/)
   * Associate Software Engineer - Payments (June 2011 - July 2013)
-  * Worked on Development, Testing and Documentation for Mobile and Retail Payments applications
-  * Mentored 4 new graduate engineers to set them up for success in a month from joining the team
+    * Worked on Development, Testing and Documentation for Mobile and Retail Payments applications
+    * Mentored 4 new graduate engineers to set them up for success in a month from joining the team
 
 ## Patents
 
