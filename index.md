@@ -5,9 +5,11 @@ title: About
 
 # About
 
-Pushkar Joglekar is a _Sr. Cloud Security Engineer II_ currently working at [Credit Karma](#credit-karma). He is also a Kubernetes security maintainer.
+Pushkar Joglekar is a Principal Security Engineer @ Broadcom focussing on VMware Kubernetes Distribution and Releases. He is also a Kubernetes security maintainer.
 
-Since 2019, he feels incredibly fortunate to have written the security chapters in Nigel Poulton’s [“The Kubernetes Book”](#publications) which he looks forward to updating every year. Prior to this current role, he worked on securing massive Kubernetes deployments at [Visa](#visa-inc) (End User) and [VMware Tanzu](#vmware-tanzu) (Service Provider), playing a dual role of a security architect and engineer. He is also the co-creator of award winning container runtime security tool: [MASHUP](#awards)
+Since 2019, he feels incredibly fortunate to have written the security chapters in Nigel Poulton’s [“The Kubernetes Book”](#publications) which he looks forward to updating every year. 
+
+Prior to his current role, he has leveraged his expertise to secure massive planet-scale private and public cloud infrastructure, built to run sensitive workloads at End User companies like [Credit Karma](#credit-karma) and [Visa](#visa-inc). He is also the co-creator of award winning container runtime security tool: [MASHUP](#awards)
 
 In his free time, he loves taking photos, watching cricket and firmly believes that Chai fixes everything!
 
@@ -15,18 +17,13 @@ Pushkar is based in San Francisco Bay Area!
 
 ## Current Affiliations
 
-### [Credit Karma](https://www.creditkarma.com/)
+### [Broadcom](https://www.broadcom.com/)
 
-**Cloud Security Engineering** (Oct 2022 - Present)
-  * _Sr. Cloud Security Engineer II_
+**VMware Cloud Foundation** (Nov 2025 - Present)
+  * Principal Security Engineer
   
-    * Technical Lead for driving cross-org collaboration to improve security posture of our Google Cloud footprint:
-      * GenAI: Entrusted to be one of the few engineers to perform security design reviews for LLM usecases
-      * Vulnerability Management: Reached 0 critical and high Risks within 90 days through strong bias for risk prioritization, auto-remediation with human control and native integration in Developer Experience
-      * Data Security: Reinvigorated and operationalized a couple of stale security controls to save company 2% of security budget (~100k) by methodically resolving technical debt and redesigning it for 99.99% availability
-      * Containers: Co-authored a technical design with platform engineering to migrate away from a deprecated k8s security feature without any impact to site availability or security posture
-
-
+    * Technical Lead responsible to meet and exceed security standards for our Kubernetes product releases
+      
 ### [Kubernetes](https://kubernetes.io/)
 
   * [Among Top 1-2% contributors worldwide since inception](https://all.devstats.cncf.io/d/9/developer-activity-counts-by-repository-group-table?orgId=1&var-period_name=First%20CNCF%20project%20join%20date%20-%20now&var-metric=contributions&var-repogroup_name=Kubernetes&var-country_name=All)
@@ -35,6 +32,18 @@ Pushkar is based in San Francisco Bay Area!
   * [Associate Security Response Committee Member](https://github.com/kubernetes/committee-security-response#security-response-committee-src) (May 2022 - Feb 2023)
 
 ## Past Affiliations
+
+### [Credit Karma](https://www.creditkarma.com/)
+
+**Cloud Security Engineering** (Oct 2022 - Nov 2025)
+  * _Sr. Cloud Security Engineer II_
+  
+    * Technical Lead for driving cross-org collaboration to improve security posture of our Google Cloud footprint:
+      * GenAI: Entrusted to be one of the few engineers to perform security design reviews for LLM usecases
+      * Vulnerability Management: Reached 0 critical and high Risks within 90 days through strong bias for risk prioritization, auto-remediation with human control and native integration in Developer Experience
+      * Data Security: Reinvigorated and operationalized a couple of stale security controls to save company 2% of security budget (~100k) by methodically resolving technical debt and redesigning it for 99.99% availability
+      * Containers: Co-authored a technical design with platform engineering to migrate away from a deprecated k8s security feature without any impact to site availability or security posture
+
 
 ### [CNCF (Cloud Native Computing Foundation)](https://www.cncf.io/)
 
