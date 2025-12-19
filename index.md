@@ -99,7 +99,7 @@ Note: 7 granted, 1 pending
 
 * [Google Open Source Peer Bonus Award 2022: Kubernetes and CNCF](https://opensource.googleblog.com/2022/09/announcing-the-second-group-of-open-source-peer-bonus-winners-in-2022.html)
 * [Kubernetes Community Awards 2021: Security](https://www.kubernetes.dev/community/awards/2021/#security)
-* [CSO50 2019: Next Generation Security Product Award](https://usa.visa.com/visa-everywhere/blog/bdp/2019/11/14/safety-in-numbers-1573775010350.html)
+* [CSO50 2019: Next Generation Security Product Award](https://www.csoonline.com/article/569019/how-visa-built-its-own-container-security-solution.html) <!--broken link: https://usa.visa.com/visa-everywhere/blog/bdp/2019/11/14/safety-in-numbers-1573775010350.html -->
 * [CMU INI 2015: Outstanding Student Service Award for Teaching Assistant](https://www.cmu.edu/ini/news/2015/awards.html)
 
 ## Publications
