@@ -113,6 +113,7 @@ Note: 7 granted, 1 pending
 
 #### Official Blogs
 
+  * [Reconciling the Past: Correcting Records for Unfixed Kubernetes CVEs, May 2026](https://kubernetes.io/blog/2026/05/26/reconciling-unfixed-kubernetes-cves/) 
   * [Updates to the Auto-refreshing Official CVE Feed, April 2023](https://kubernetes.io/blog/2023/04/25/k8s-cve-feed-beta/)
   * [Current State: 2019 Third Party Security Audit of Kubernetes, Oct. 2022](https://kubernetes.io/blog/2022/10/05/current-state-2019-third-party-audit/)
   * [Implementing the Auto-refreshing Official CVE Feed, Sept. 2022](https://kubernetes.dev/blog/2022/09/12/k8s-cve-feed-alpha/)
@@ -161,6 +162,9 @@ Note: 7 granted, 1 pending
     * [Blog](https://blog.pcisecuritystandards.org/new-information-supplement-guidance-for-containers-and-container-orchestration-tools)
     * [Guidance](https://docs-prv.pcisecuritystandards.org/Guidance%20Document/Containers%20and%20Container%20Orchestration%20Tools/Guidance-for-Containers-and-Container-Ochestration-Tools-v1_0.pdf?hsCtaTracking=e1f57154-dcd8-4ddc-88bc-099110ddaec7%7C5b4d5cdd-43fb-4107-92c5-cfe752cdc807)
    
+### Guest Blogs
+  * [Aqua Security: When Security Scans Break the Brain: Solving Trivy’s etcd Exhaustion Problem, July 2026](https://www.aquasec.com/blog/when-security-scans-break-the-brain-solving-trivys-etcd-exhaustion-problem) 
+   
 ## Media Coverage
 
 * [CNCF Blog: Announcing the Refreshed Cloud Native Security Whitepaper, May 2022](https://www.cncf.io/blog/2022/05/18/announcing-the-refreshed-cloud-native-security-whitepaper)
@@ -172,6 +176,9 @@ Note: 7 granted, 1 pending
 * [ItOpsTimes: Securing Kubernetes with STRIDE, Nov. 2019](https://www.itopstimes.com/itsec/kubecon-securing-kubernetes-with-stride/)
 
 ## Speaking Engagements
+
+### Kubernetes Community Days: New York City
+  * [Who does AI trust for K8s CVEs: Maintainers or MITRE?, June 2026](https://www.youtube.com/watch?v=cNseBMVx0Ok)
 
 ### [Thank God It's Kubernetes](https://www.youtube.com/playlist?list=PL7bmigfV0EqQzxcNpmcdTJ9eFRPBe-iZa)
   * [Episode 187 "Kubernetes Release - Image Signing MVP", March 2022](https://www.youtube.com/watch?v=H1D0fk9sZ8I)
