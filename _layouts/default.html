@@ -72,7 +72,52 @@
 	<a href="#publications">Publications</a> |
 	<a href="#media-coverage">Media Coverage</a> |
 	<a href="#speaking-engagements">Speaking Engagements</a></p>
-	      
+<button id="ai-toggle" onclick="toggleAIHighlight()" style="margin-top: 15px; padding: 8px 14px; background-color: #0366d6; color: white; border: none; border-radius: 6px; font-weight: bold; cursor: pointer; font-size: 13px; display: inline-flex; align-items: center; gap: 6px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
+        🤖 Highlight AI Experience
+      </button>
+
+      <script>
+      function toggleAIHighlight() {
+        const btn = document.getElementById('ai-toggle');
+        // Smart regex keywords to accurately match your AI, GenAI, LLM, and ML content
+        const keywords = [/GenAI/i, /LLM/i, /machine learning/i, /\bAI\b/i];
+        
+        // Target lists and paragraphs inside your main content section
+        const elements = document.querySelectorAll('section li, section p');
+        let isHighlighted = btn.classList.contains('active');
+        
+        elements.forEach(el => {
+          const matches = keywords.some(regex => regex.test(el.innerText));
+          
+          if (matches) {
+            if (!isHighlighted) {
+              el.style.backgroundColor = '#fff5b1'; // Clean, soft yellow highlight
+              el.style.color = '#000000';           // Ensures text remains readable
+              el.style.padding = '2px 6px';
+              el.style.borderRadius = '4px';
+              el.style.transition = 'all 0.2s ease';
+            } else {
+              // Reset back to your theme's default styles
+              el.style.backgroundColor = '';
+              el.style.color = '';
+              el.style.padding = '';
+              el.style.borderRadius = '';
+            }
+          }
+        });
+        
+        // Toggle button state and styling
+        if (!isHighlighted) {
+          btn.classList.add('active');
+          btn.style.backgroundColor = '#24292e'; // Dark gray for "Clear" state
+          btn.innerHTML = '❌ Clear Highlights';
+        } else {
+          btn.classList.remove('active');
+          btn.style.backgroundColor = '#0366d6'; // Original blue
+          btn.innerHTML = '🤖 Highlight AI Experience';
+        }
+      }
+      </script>	      
       </header>
       <section>
 	      
