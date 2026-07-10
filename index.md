@@ -73,14 +73,22 @@ Pushkar is based in San Francisco Bay Area!
       * Evangelized security topics via online/in-person speaking engagements from executives to developers
       * Deployed Secrets Mgmt. system with 99.999% availability serving 100+ apps
 
-### [Carnegie Mellon University](https://www.cmu.edu/)
-  * Graduate Degree (MS) in Information Technology - [Information Networking Institute](https://www.cmu.edu/ini/) (Aug 2013 - May 2015) 
-  * Graduate Teaching Assistant (Aug 2014 - May 2015)
-
 ### [ACI Worldwide Inc.](https://www.aciworldwide.com/)
   * Associate Software Engineer - Payments (June 2011 - July 2013)
     * Worked on Development, Testing and Documentation for Mobile and Retail Payments applications
     * Mentored 4 new graduate engineers to set them up for success in a month from joining the team
+
+## Education
+
+### [Stanford University - HAI](https://hai.stanford.edu/)
+  * Professional Certificate Program in [Generative AI: Technology, Business, and Society](https://digitalcredential.stanford.edu/check/0A1285C0C93B23B4D377FCAA42071F284F0BA1903BD0AEE71B80B6E3529BEFDDbFYrcWkwZGFQNEFNWGJjMnJnT1RVcVovV0FTOU9PcWIzeUxuSktWNUtwRnBSeUNT)
+    * Online Course: [XFM110 - Technical Fundamentals of Generative AI](https://digitalcredential.stanford.edu/check/27C610B490DA3A0844F08385523BCB69B09B9443754AFCC1A299D919F9D7C6D3V3BiYXlDbXZxYUQ0WDFKWG11REw2OGlmclcwUWVvNmlaYy80SS9EY2h5VHZoNmNK)
+    * Online Course: [XFM111 - Business Opportunities and Applications of Generative AI](https://digitalcredential.stanford.edu/check/4C84A5F5BEF97E187C063E4A05E1D6DF70DC06C5BE316747FA3B738F9EC8A04CT0d5N1cyTVRwbUt5WkRiUWoxVnpldjJlT1JKS2VDd0YxekRtdHhqWDU4T08xdnZp)
+    * Online Course: [XFM112 - Human-Centered Generative AI](https://digitalcredential.stanford.edu/check/563BF2CFF361DD936C2077AA08F06EB7406508079B30F58E9912C48C076A39C7YzBwZ2xyWDhuRlhHbk1aQWhUY1FpK3NmbnRXQ2FyakYxWWdMK21YTnhCQW9tY3pr)
+   
+### [Carnegie Mellon University](https://www.cmu.edu/)
+  * Graduate Degree (MS) in Information Technology - [Information Networking Institute](https://www.cmu.edu/ini/) (Aug 2013 - May 2015) 
+  * Graduate Teaching Assistant (Aug 2014 - May 2015)
 
 ## Patents
 
